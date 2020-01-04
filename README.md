@@ -4,6 +4,8 @@ Kitab, based on [Scheherazade](https://software.sil.org/scheherazade/), is an Ar
 with a design based on traditional typefaces such as Monotype Naskh,
 extended to cover the full Unicode Arabic repertoire.
 
+It is also designed to support rendering Quranic text in a Unicode-compliant manner.
+
 ## Changes
 
 - Increased the base font size.
