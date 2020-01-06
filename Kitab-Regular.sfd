@@ -1,4 +1,4 @@
-SplineFontDB: 3.0
+SplineFontDB: 3.2
 FontName: Kitab-Regular
 FullName: Kitab
 FamilyName: Kitab
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1440087096
-ModificationTime: 1578004498
+ModificationTime: 1578321711
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -234,9 +234,9 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates lookup 16 contextual 11" 0 0 0 1
  1 0 4
   Coverage: 260 zero one two three four five six seven eight nine uni0660 uni0661 uni0662 uni0663 uni0664 uni0665 uni0666 uni0667 uni0668 uni0669 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F5 uni06F6 uni06F7 uni06F8 uni06F9 uni06F4.urdu uni06F4.roh uni06F6.urdu uni06F7.urdu
-  FCoverage: 130 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F5 uni06F6 uni06F7 uni06F8 uni06F9 uni06F4.urdu uni06F4.roh uni06F6.urdu uni06F7.urdu
-  FCoverage: 130 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F5 uni06F6 uni06F7 uni06F8 uni06F9 uni06F4.urdu uni06F4.roh uni06F6.urdu uni06F7.urdu
-  FCoverage: 130 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F5 uni06F6 uni06F7 uni06F8 uni06F9 uni06F4.urdu uni06F4.roh uni06F6.urdu uni06F7.urdu
+  FCoverage: 260 zero one two three four five six seven eight nine uni0660 uni0661 uni0662 uni0663 uni0664 uni0665 uni0666 uni0667 uni0668 uni0669 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F5 uni06F6 uni06F7 uni06F8 uni06F9 uni06F4.urdu uni06F4.roh uni06F6.urdu uni06F7.urdu
+  FCoverage: 260 zero one two three four five six seven eight nine uni0660 uni0661 uni0662 uni0663 uni0664 uni0665 uni0666 uni0667 uni0668 uni0669 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F5 uni06F6 uni06F7 uni06F8 uni06F9 uni06F4.urdu uni06F4.roh uni06F6.urdu uni06F7.urdu
+  FCoverage: 260 zero one two three four five six seven eight nine uni0660 uni0661 uni0662 uni0663 uni0664 uni0665 uni0666 uni0667 uni0668 uni0669 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F5 uni06F6 uni06F7 uni06F8 uni06F9 uni06F4.urdu uni06F4.roh uni06F6.urdu uni06F7.urdu
   FCoverage: 38 uni06DD.3 uni06DD.alt.3 uni06DD.altB.3
  1
   SeqLookup: 0 "Single Substitution lookup 47"
@@ -244,8 +244,8 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates lookup 16 contextual 10" 0 0 0 1
  1 0 3
   Coverage: 260 zero one two three four five six seven eight nine uni0660 uni0661 uni0662 uni0663 uni0664 uni0665 uni0666 uni0667 uni0668 uni0669 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F5 uni06F6 uni06F7 uni06F8 uni06F9 uni06F4.urdu uni06F4.roh uni06F6.urdu uni06F7.urdu
-  FCoverage: 130 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F5 uni06F6 uni06F7 uni06F8 uni06F9 uni06F4.urdu uni06F4.roh uni06F6.urdu uni06F7.urdu
-  FCoverage: 130 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F5 uni06F6 uni06F7 uni06F8 uni06F9 uni06F4.urdu uni06F4.roh uni06F6.urdu uni06F7.urdu
+  FCoverage: 260 zero one two three four five six seven eight nine uni0660 uni0661 uni0662 uni0663 uni0664 uni0665 uni0666 uni0667 uni0668 uni0669 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F5 uni06F6 uni06F7 uni06F8 uni06F9 uni06F4.urdu uni06F4.roh uni06F6.urdu uni06F7.urdu
+  FCoverage: 260 zero one two three four five six seven eight nine uni0660 uni0661 uni0662 uni0663 uni0664 uni0665 uni0666 uni0667 uni0668 uni0669 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F5 uni06F6 uni06F7 uni06F8 uni06F9 uni06F4.urdu uni06F4.roh uni06F6.urdu uni06F7.urdu
   FCoverage: 38 uni06DD.3 uni06DD.alt.3 uni06DD.altB.3
  1
   SeqLookup: 0 "Single Substitution lookup 47"
@@ -253,7 +253,7 @@ EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates lookup 16 contextual 9" 0 0 0 1
  1 0 2
   Coverage: 260 zero one two three four five six seven eight nine uni0660 uni0661 uni0662 uni0663 uni0664 uni0665 uni0666 uni0667 uni0668 uni0669 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F5 uni06F6 uni06F7 uni06F8 uni06F9 uni06F4.urdu uni06F4.roh uni06F6.urdu uni06F7.urdu
-  FCoverage: 130 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F5 uni06F6 uni06F7 uni06F8 uni06F9 uni06F4.urdu uni06F4.roh uni06F6.urdu uni06F7.urdu
+  FCoverage: 260 zero one two three four five six seven eight nine uni0660 uni0661 uni0662 uni0663 uni0664 uni0665 uni0666 uni0667 uni0668 uni0669 uni06F0 uni06F1 uni06F2 uni06F3 uni06F4 uni06F5 uni06F6 uni06F7 uni06F8 uni06F9 uni06F4.urdu uni06F4.roh uni06F6.urdu uni06F7.urdu
   FCoverage: 38 uni06DD.3 uni06DD.alt.3 uni06DD.altB.3
  1
   SeqLookup: 0 "Single Substitution lookup 47"
