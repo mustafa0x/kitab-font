@@ -1,4 +1,4 @@
-SplineFontDB: 3.2
+SplineFontDB: 3.0
 FontName: Kitab-Regular
 FullName: Kitab
 FamilyName: Kitab
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1440087096
-ModificationTime: 1578321711
+ModificationTime: 1585668890
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -1700,7 +1700,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 60 20 8
+WinInfo: 1560 20 8
 AnchorClass2: "Cursive-0" "'curs' Cursive Attachment in Arabic lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning lookup 2 anchor 0" "Anchor-2" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-3" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-4" "'mkmk' Mark to Mark lookup 6 subtable" "Anchor-5" "'mkmk' Mark to Mark lookup 7 subtable" "Anchor-6" "Mark to base attachment lookup 21 subtable" "Anchor-7" "Mark to base attachment lookup 22 subtable" "Anchor-8" "Mark to base attachment lookup 23 subtable"
 BeginChars: 66319 1427
 
@@ -13984,6 +13984,7 @@ SplineSet
  207 1441 207 1441 217 1449.5 c 128,-1,33
  227 1458 227 1458 227 1467 c 0,18,19
 EndSplineSet
+LCarets2: 1 0
 Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni0652
 MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni0652 uni0653.small
 AlternateSubs2: "Alternate Substitution lookup 33 subtable" uni0652.downOpen uni0652.leftOpen
@@ -19466,6 +19467,7 @@ Encoding: 1759 1759 430
 Width: 0
 GlyphClass: 4
 Flags: W
+AnchorPoint: "Anchor-5" 0 1800 basemark 0
 AnchorPoint: "Anchor-5" -13 1237 mark 0
 AnchorPoint: "Anchor-2" -13 1237 mark 0
 LayerCount: 2
