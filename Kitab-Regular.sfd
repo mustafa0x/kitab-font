@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1440087096
-ModificationTime: 1588546426
+ModificationTime: 1588547466
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -110,6 +110,8 @@ Lookup: 4 1 0 "Ligature Substitution lookup 49" { "Ligature Substitution lookup 
 Lookup: 1 1 0 "Single Substitution lookup 50" { "Single Substitution lookup 50 subtable"  } []
 Lookup: 1 0 0 "Single Substitution lookup 51" { "Single Substitution lookup 51 subtable"  } []
 Lookup: 6 262160 0 "'rlig' Required Ligatures in Arabic lookup 52" { "'rlig' Required Ligatures in Arabic lookup 52 subtable"  } ['rlig' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
+Lookup: 6 0 1 "'rlig' Required Ligatures in Arabic lookup 54" { "'rlig' Required Ligatures in Arabic lookup 54-1"  } ['rlig' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
+Lookup: 1 0 0 "wide final alef" { "wide final alef-1"  } []
 Lookup: 259 9 0 "'curs' Cursive Attachment in Arabic lookup 0" { "'curs' Cursive Attachment in Arabic lookup 0 subtable"  } ['curs' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 264 1 0 "'kern' Horizontal Kerning in Arabic lookup 1" { "'kern' Horizontal Kerning in Arabic lookup 1 contextual 0"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 1"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 2"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 3"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 4"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 5"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 6"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 7"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 8"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 9"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 10"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 11"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 12"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 13"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 14"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 15"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 16"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 17"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 18"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 19"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 20"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 21"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 22"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 23"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 24"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 25"  } ['kern' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning lookup 2" { "'mark' Mark Positioning lookup 2 anchor 0"  "'mark' Mark Positioning lookup 2 anchor 1"  } ['kern' ('arab' <'KUR ' > ) 'mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'latn' <'dflt' > ) ]
@@ -200,6 +202,13 @@ MarkAttachSets: 5
 "MarkSet-3" 833 uni0610 uni0611 uni0612 uni0613 uni0614 uni0615 uni0616 uni0617 uni0618 uni0619 uni064B uni064C uni064E uni064F uni0651 uni0652 uni0653 uni0654 uni0657 uni0658 uni0659 uni065A uni065B uni065D uni065E uni0670 uni06D6 uni06D7 uni06D8 uni06D9 uni06DA uni06DB uni06DC uni06DF uni06E0 uni06E1 uni06E2 uni06E4 uni06E7 uni06E8 uni06EB uni06EC uni08E4 uni08E5 uni08E7 uni08E8 uni08EA uni08EB uni08EC uni08F0 uni08F1 uni08F3 uni08F4 uni08F5 uni08F7 uni08F8 uni08FB uni08FC uni08FD uni08FE uni08FF uni064C.sixNine uni064F.short uni064F.filled uni0652.downOpen uni0652.leftOpen uni0653.small uni0657.open uni0670.large uni0651064B uni0651064C uni0651064C.sixNine uni0651064D uni0651064E uni0651064F uni0651064F.short uni0651064F.filled uni06510650 uni0654064E uni0654064F uni0654064F.short uni0654064F.filled uni06510670 uni064E06E2 uni064F06E2
 "MarkSet-4" 11 uni0654064E
 DEI: 91125
+ChainSub2: coverage "'rlig' Required Ligatures in Arabic lookup 54-1" 0 0 0 1
+ 1 0 1
+  Coverage: 12 uni0627.fina
+  FCoverage: 7 uni06E4
+ 1
+  SeqLookup: 0 "wide final alef"
+EndFPST
 ChainSub2: glyph "'rlig' Required Ligatures in Arabic lookup 52 subtable" 0 0 0 1
  String: 45 uni0644.init uni0640 uni0654064E uni0627.fina
  BString: 0 
@@ -1700,9 +1709,11 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 2270 10 8
+WinInfo: 66240 10 8
+BeginPrivate: 0
+EndPrivate
 AnchorClass2: "Cursive-0" "'curs' Cursive Attachment in Arabic lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning lookup 2 anchor 0" "Anchor-2" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-3" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-4" "'mkmk' Mark to Mark lookup 6 subtable" "Anchor-5" "'mkmk' Mark to Mark lookup 7 subtable" "Anchor-6" "Mark to base attachment lookup 21 subtable" "Anchor-7" "Mark to base attachment lookup 22 subtable" "Anchor-8" "Mark to base attachment lookup 23 subtable"
-BeginChars: 66319 1427
+BeginChars: 66320 1428
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -29290,6 +29301,7 @@ SplineSet
  555 126 555 126 557 112 c 128,-1,46
  559 98 559 98 559 82 c 256,0,1
 EndSplineSet
+Substitution2: "wide final alef-1" uni0627.fina.madda
 Substitution2: "Single Substitution lookup 51 subtable" uni0627.fina.postLamIni
 Substitution2: "Single Substitution lookup 42 subtable" uni0627.fina.postLamMed
 Substitution2: "Single Substitution lookup 41 subtable" uni0627.fina.postLamIni
@@ -55916,6 +55928,58 @@ SplineSet
  1276 1220 l 2,292,293
  1316 1230 1316 1230 1342 1241 c 1,294,-1
  1316 1265 l 1,287,288
+EndSplineSet
+EndChar
+
+StartChar: uni0627.fina.madda
+Encoding: 66319 -1 1427
+Width: 680
+Flags: W
+AnchorPoint: "Anchor-3" 233 -233 basechar 0
+AnchorPoint: "Anchor-2" 356 1487 basechar 0
+AnchorPoint: "Anchor-1" -5 889 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+769 82 m 256,0,1
+ 769 66 769 66 767 52 c 128,-1,2
+ 765 38 765 38 758 26 c 128,-1,3
+ 751 14 751 14 736.5 7 c 128,-1,4
+ 722 0 722 0 697 0 c 2,5,-1
+ 439 0 l 2,6,7
+ 396 0 396 0 356.5 8.5 c 128,-1,8
+ 317 17 317 17 285 41.5 c 128,-1,9
+ 253 66 253 66 232 109 c 128,-1,10
+ 211 152 211 152 204 221 c 0,11,12
+ 199 273 199 273 192.5 340 c 128,-1,13
+ 186 407 186 407 179 481 c 128,-1,14
+ 172 555 172 555 163.5 631.5 c 128,-1,15
+ 155 708 155 708 146 780 c 0,16,17
+ 138 840 138 840 130 896.5 c 128,-1,18
+ 122 953 122 953 116 1001 c 128,-1,19
+ 110 1049 110 1049 107 1086.5 c 128,-1,20
+ 104 1124 104 1124 104 1148 c 0,21,22
+ 104 1154 104 1154 115 1177 c 128,-1,23
+ 126 1200 126 1200 139.5 1224.5 c 128,-1,24
+ 153 1249 153 1249 166 1268.5 c 128,-1,25
+ 179 1288 179 1288 183 1288 c 0,26,27
+ 186 1288 186 1288 190.5 1283 c 0,28,29
+ 193.81383855 1279.31795717 193.81383855 1279.31795717 195 1262 c 0,30,31
+ 200 1189 200 1189 208.5 1090.5 c 128,-1,32
+ 217 992 217 992 227 884 c 128,-1,33
+ 237 776 237 776 247 668 c 128,-1,34
+ 257 560 257 560 267 470.5 c 128,-1,35
+ 277 381 277 381 286 318 c 128,-1,36
+ 295 255 295 255 303 237 c 0,37,38
+ 313 212 313 212 328.5 197 c 128,-1,39
+ 344 182 344 182 362.5 174 c 128,-1,40
+ 381 166 381 166 400.5 164 c 128,-1,41
+ 420 162 420 162 439 162 c 2,42,-1
+ 697 162 l 2,43,44
+ 722 162 722 162 736.5 155 c 128,-1,45
+ 751 148 751 148 758 137 c 128,-1,46
+ 765 126 765 126 767 112 c 128,-1,47
+ 769 98 769 98 769 82 c 256,0,1
 EndSplineSet
 EndChar
 EndChars
