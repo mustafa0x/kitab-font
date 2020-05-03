@@ -9,7 +9,7 @@ all: Kitab-Regular.ttf Kitab-Bold.ttf
 	  -lang=py                                                             \
 	  -c "import fontforge;                                                \
 	  font = fontforge.open('$<');                                         \
-	  font.generate('$@', flags=$(FLAGS))"
+	  font.generate('$(*F).tmp.ttf', flags=$(FLAGS))"
 	@echo " TTX	$@"
-	@ttx -q -o $@.ttx $@
-	@ttx -q -o $@ $@.ttx
+	@ttx -q -o $(*F).ttx $(*F).tmp.ttf
+	@ttx -q -o $@ $(*F).ttx
