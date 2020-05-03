@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1440087096
-ModificationTime: 1588545055
+ModificationTime: 1588545591
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -1700,7 +1700,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1740 10 8
+WinInfo: 1590 10 8
 AnchorClass2: "Cursive-0" "'curs' Cursive Attachment in Arabic lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning lookup 2 anchor 0" "Anchor-2" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-3" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-4" "'mkmk' Mark to Mark lookup 6 subtable" "Anchor-5" "'mkmk' Mark to Mark lookup 7 subtable" "Anchor-6" "Mark to base attachment lookup 21 subtable" "Anchor-7" "Mark to base attachment lookup 22 subtable" "Anchor-8" "Mark to base attachment lookup 23 subtable"
 BeginChars: 66319 1427
 
@@ -14083,7 +14083,7 @@ Encoding: 1614 1614 285
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-5" 117 1677 basemark 0
+AnchorPoint: "Anchor-5" 177 1977 basemark 0
 AnchorPoint: "Anchor-5" 156 1326 mark 0
 AnchorPoint: "Anchor-2" 156 1326 mark 0
 LayerCount: 2
@@ -14112,6 +14112,7 @@ SplineSet
  396 1640 396 1640 400 1635.5 c 128,-1,28
  404 1631 404 1631 404 1625 c 0,0,1
 EndSplineSet
+LCarets2: 1 0
 Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni064E
 MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni064E uni0653.small
 EndChar
@@ -14137,6 +14138,7 @@ Encoding: 1616 1616 287
 Width: 0
 GlyphClass: 4
 Flags: W
+AnchorPoint: "Anchor-5" 254 -340 basemark 0
 AnchorPoint: "Anchor-8" 188 -728 mark 0
 AnchorPoint: "Anchor-7" 188 -728 mark 0
 AnchorPoint: "Anchor-6" 188 -728 mark 0
@@ -19974,7 +19976,7 @@ Width: 0
 GlyphClass: 4
 Flags: W
 AnchorPoint: "Anchor-5" 0 2100 basemark 0
-AnchorPoint: "Anchor-5" 39 1312 mark 0
+AnchorPoint: "Anchor-5" 309 2142 mark 0
 AnchorPoint: "Anchor-2" 39 1312 mark 0
 LayerCount: 2
 Fore
