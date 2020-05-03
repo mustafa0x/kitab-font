@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1440087096
-ModificationTime: 1588545591
+ModificationTime: 1588546573
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -1700,7 +1700,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 1590 10 8
+WinInfo: 1710 10 8
 AnchorClass2: "Cursive-0" "'curs' Cursive Attachment in Arabic lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning lookup 2 anchor 0" "Anchor-2" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-3" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-4" "'mkmk' Mark to Mark lookup 6 subtable" "Anchor-5" "'mkmk' Mark to Mark lookup 7 subtable" "Anchor-6" "Mark to base attachment lookup 21 subtable" "Anchor-7" "Mark to base attachment lookup 22 subtable" "Anchor-8" "Mark to base attachment lookup 23 subtable"
 BeginChars: 66319 1427
 
@@ -20241,6 +20241,7 @@ Encoding: 1767 1767 438
 Width: 0
 GlyphClass: 4
 Flags: W
+AnchorPoint: "Anchor-5" -90 1755 basemark 0
 AnchorPoint: "Anchor-5" 21 1088 mark 0
 AnchorPoint: "Anchor-2" 21 1088 mark 0
 LayerCount: 2
@@ -23507,6 +23508,7 @@ Encoding: 2291 2291 555
 Width: 0
 GlyphClass: 4
 Flags: W
+AnchorPoint: "Anchor-5" 244 2150 basemark 0
 AnchorPoint: "Anchor-5" 142 1248 mark 0
 AnchorPoint: "Anchor-2" 142 1248 mark 0
 LayerCount: 2
