@@ -4,7 +4,7 @@ Kitab, based on [Scheherazade](https://software.sil.org/scheherazade/), is an Ar
 with a design based on traditional typefaces such as Monotype Naskh,
 extended to cover the full Unicode Arabic repertoire.
 
-It is also designed to support rendering Quranic text in a Unicode-compliant manner.
+It is also designed to support rendering [Quranic text](https://github.com/quranacademy/quran-text) in a Unicode-compliant manner.
 
 ## Changes
 
@@ -18,6 +18,7 @@ It is also designed to support rendering Quranic text in a Unicode-compliant man
   Currently there is no pure Unicode solution for this
 - The width of ۩ (U+06E9) was increased.
 - A slight curve was added to U+0670 (Small alif).
+- Numerous collision fixes.
 
 The follow glyphs were enlarged:
 - U+06E4 (Small high maddah)
