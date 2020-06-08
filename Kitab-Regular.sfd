@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1440087096
-ModificationTime: 1591587306
+ModificationTime: 1591588118
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -108,8 +108,7 @@ Lookup: 1 9 0 "Single Substitution lookup 47" { "Single Substitution lookup 47 s
 Lookup: 2 1 0 "Multiple Substitution lookup 48" { "Multiple Substitution lookup 48 subtable"  } []
 Lookup: 4 1 0 "Ligature Substitution lookup 49" { "Ligature Substitution lookup 49 subtable"  } []
 Lookup: 1 1 0 "Single Substitution lookup 50" { "Single Substitution lookup 50 subtable"  } []
-Lookup: 1 0 0 "Lam-Hamza-Alef isolated" { "Lam-Hamza-Alef isolated subtable"  } []
-Lookup: 1 0 0 "Lam-Hamza-Alef final" { "Lam-Hamza-Alef final subtable"  } []
+Lookup: 1 0 0 "Lam-Hamza-Alef" { "Lam-Hamza-Alef subtable"  } []
 Lookup: 6 262160 0 "'rlig' Lam-Hamza-Alef" { "'rlig' Lam-Hamza-Alef subtable"  } ['rlig' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 6 0 1 "'rlig' Required Ligatures in Arabic lookup 54" { "'rlig' Required Ligatures in Arabic lookup 54-1"  } ['rlig' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 1 0 0 "wide final alef" { "wide final alef-1"  } []
@@ -224,16 +223,16 @@ ChainSub2: glyph "'rlig' Lam-Hamza-Alef subtable" 0 0 0 2
  BString: 0 
  FString: 0 
  3
-  SeqLookup: 0 "Lam-Hamza-Alef isolated"
-  SeqLookup: 1 "Lam-Hamza-Alef isolated"
-  SeqLookup: 3 "Lam-Hamza-Alef isolated"
+  SeqLookup: 0 "Single Substitution lookup 40"
+  SeqLookup: 1 "Lam-Hamza-Alef"
+  SeqLookup: 3 "Single Substitution lookup 41"
  String: 45 uni0644.medi uni0640 uni0654064E uni0627.fina
  BString: 0 
  FString: 0 
  3
-  SeqLookup: 0 "Lam-Hamza-Alef isolated"
-  SeqLookup: 1 "Lam-Hamza-Alef isolated"
-  SeqLookup: 3 "Lam-Hamza-Alef final"
+  SeqLookup: 0 "Single Substitution lookup 40"
+  SeqLookup: 1 "Lam-Hamza-Alef"
+  SeqLookup: 3 "Single Substitution lookup 42"
 EndFPST
 ChainSub2: coverage "Contextual Chaining Substitution lookup 32 subtable" 0 0 0 1
  1 1 0
@@ -13305,7 +13304,7 @@ SplineSet
  403 98 403 98 403 82 c 256,0,1
 EndSplineSet
 Substitution2: "wide tatweel-1" uni0640.wide
-Substitution2: "Lam-Hamza-Alef isolated subtable" uni2060
+Substitution2: "Lam-Hamza-Alef subtable" uni2060
 EndChar
 
 StartChar: uni0641
@@ -29319,9 +29318,7 @@ SplineSet
  555 126 555 126 557 112 c 128,-1,46
  559 98 559 98 559 82 c 256,0,1
 EndSplineSet
-Substitution2: "Lam-Hamza-Alef final subtable" uni0627.fina.postLamMed
 Substitution2: "wide final alef-1" uni0627.fina.madda
-Substitution2: "Lam-Hamza-Alef isolated subtable" uni0627.fina.postLamIni
 Substitution2: "Single Substitution lookup 42 subtable" uni0627.fina.postLamMed
 Substitution2: "Single Substitution lookup 41 subtable" uni0627.fina.postLamIni
 EndChar
@@ -38823,7 +38820,6 @@ SplineSet
  608 126 608 126 610 112 c 128,-1,64
  612 98 612 98 612 82 c 256,0,1
 EndSplineSet
-Substitution2: "Lam-Hamza-Alef isolated subtable" uni0644.medi.preAlef
 Substitution2: "Single Substitution lookup 40 subtable" uni0644.medi.preAlef
 EndChar
 
@@ -42506,7 +42502,6 @@ SplineSet
  311 616 311 616 317.5 567 c 128,-1,55
  324 518 324 518 324 482 c 0,0,1
 EndSplineSet
-Substitution2: "Lam-Hamza-Alef isolated subtable" uni0644.init.preAlef
 Substitution2: "Single Substitution lookup 40 subtable" uni0644.init.preAlef
 EndChar
 
