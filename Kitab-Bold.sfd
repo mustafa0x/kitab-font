@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1440087096
-ModificationTime: 1591588043
+ModificationTime: 1591598842
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -51016,13 +51016,14 @@ Encoding: 66223 -1 1319
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-5" 152 1989 basemark 0
+AnchorPoint: "Anchor-5" 233 2423 basemark 0
 AnchorPoint: "Anchor-5" 233 1250 mark 0
 AnchorPoint: "Anchor-2" 233 1250 mark 0
 LayerCount: 2
 Fore
 Refer: 285 1614 N 1 0 0 1 56 446 3
 Refer: 288 1617 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni0651064E
 MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni0651064E uni0653.small
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 9 subtable" uni0651 uni064E
@@ -51085,7 +51086,7 @@ Encoding: 66227 -1 1323
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-5" 126 2095 basemark 0
+AnchorPoint: "Anchor-5" 133 1828 basemark 0
 AnchorPoint: "Anchor-5" 233 1263 mark 0
 AnchorPoint: "Anchor-2" 233 1263 mark 0
 LayerCount: 2
@@ -51104,7 +51105,7 @@ Encoding: 66228 -1 1324
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-5" 129 2017 basemark 0
+AnchorPoint: "Anchor-5" 233 2407 basemark 0
 AnchorPoint: "Anchor-5" 233 1297 mark 0
 AnchorPoint: "Anchor-2" 233 1297 mark 0
 LayerCount: 2

@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1440087096
-ModificationTime: 1591588118
+ModificationTime: 1591598691
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -49618,13 +49618,14 @@ Encoding: 66223 -1 1319
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-5" 117 1989 basemark 0
+AnchorPoint: "Anchor-5" 169 2234 basemark 0
 AnchorPoint: "Anchor-5" 214 1287 mark 0
 AnchorPoint: "Anchor-2" 214 1287 mark 0
 LayerCount: 2
 Fore
 Refer: 285 1614 N 1 0 0 1 52 390 3
 Refer: 288 1617 N 1 0 0 1 0 0 2
+LCarets2: 1 0
 Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni0651064E
 MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni0651064E uni0653.small
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 9 subtable" uni0651 uni064E
@@ -49687,13 +49688,14 @@ Encoding: 66227 -1 1323
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-5" 117 2074 basemark 0
+AnchorPoint: "Anchor-5" 125 1784 basemark 0
 AnchorPoint: "Anchor-5" 224 1300 mark 0
 AnchorPoint: "Anchor-2" 224 1300 mark 0
 LayerCount: 2
 Fore
 Refer: 285 1614 N 1 0 0 1 78 0 3
 Refer: 288 1617 N 1 0 0 1 0 268 2
+LCarets2: 1 0
 Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni06510650
 MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni06510650 uni0653.small
 MultipleSubs2: "Multiple Substitution lookup 27 subtable" uni0651 uni0650
@@ -49706,7 +49708,7 @@ Encoding: 66228 -1 1324
 Width: 0
 GlyphClass: 4
 Flags: W
-AnchorPoint: "Anchor-5" 81 2026 basemark 0
+AnchorPoint: "Anchor-5" 127 2270 basemark 0
 AnchorPoint: "Anchor-5" 156 1326 mark 0
 AnchorPoint: "Anchor-2" 156 1326 mark 0
 LayerCount: 2
