@@ -14140,7 +14140,6 @@ SplineSet
  396 1640 396 1640 400 1635.5 c 128,-1,28
  404 1631 404 1631 404 1625 c 0,0,1
 EndSplineSet
-LCarets2: 1 0
 Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni064E
 MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni064E uni0653.small
 EndChar
@@ -15625,7 +15624,6 @@ SplineSet
  158.292490768 1459.78520926 l 1,4,5
  385.504844211 1021.18623844 385.504844211 1021.18623844 220.337890625 757.751953125 c 1,0,-1
 EndSplineSet
-LCarets2: 1 0
 Substitution2: "Single Substitution lookup 50 subtable" uni0670.large
 Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni0670
 MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni0670 uni0653.small
@@ -51023,7 +51021,6 @@ LayerCount: 2
 Fore
 Refer: 285 1614 N 1 0 0 1 56 446 3
 Refer: 288 1617 N 1 0 0 1 0 0 2
-LCarets2: 1 0
 Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni0651064E
 MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni0651064E uni0653.small
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 9 subtable" uni0651 uni064E

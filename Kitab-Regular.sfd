@@ -13878,7 +13878,6 @@ SplineSet
  338 1590 338 1590 346 1590 c 0,26,27
  356 1589 356 1589 356 1579 c 0,0,1
 EndSplineSet
-LCarets2: 1 0
 Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni064E
 MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni064E uni0653.small
 EndChar
@@ -14014,7 +14013,6 @@ SplineSet
  207 1441 207 1441 217 1449.5 c 128,-1,33
  227 1458 227 1458 227 1467 c 0,18,19
 EndSplineSet
-LCarets2: 1 0
 Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni0652
 MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni0652 uni0653.small
 AlternateSubs2: "Alternate Substitution lookup 33 subtable" uni0652.downOpen uni0652.leftOpen
@@ -15298,7 +15296,6 @@ SplineSet
  233 990 233 990 83 1265 c 1,5,6
  158 1406 l 1,0,1
 EndSplineSet
-LCarets2: 1 0
 Substitution2: "Single Substitution lookup 50 subtable" uni0670.large
 Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni0670
 MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni0670 uni0653.small
@@ -49625,7 +49622,6 @@ LayerCount: 2
 Fore
 Refer: 285 1614 N 1 0 0 1 52 390 3
 Refer: 288 1617 N 1 0 0 1 0 0 2
-LCarets2: 1 0
 Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni0651064E
 MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni0651064E uni0653.small
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 9 subtable" uni0651 uni064E
@@ -49695,7 +49691,6 @@ LayerCount: 2
 Fore
 Refer: 285 1614 N 1 0 0 1 78 0 3
 Refer: 288 1617 N 1 0 0 1 0 268 2
-LCarets2: 1 0
 Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni06510650
 MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni06510650 uni0653.small
 MultipleSubs2: "Multiple Substitution lookup 27 subtable" uni0651 uni0650
@@ -49734,7 +49729,6 @@ LayerCount: 2
 Fore
 Refer: 1375 -1 N 1 0 0 1 172 1478 3
 Refer: 1371 -1 N 1 0 0 1 212 1915 2
-LCarets2: 1 0
 Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni0654064F
 MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni0654064F uni0653.small
 AlternateSubs2: "Alternate Substitution lookup 28 subtable" uni0654064F.filled uni0654064F.short
