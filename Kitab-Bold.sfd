@@ -27202,6 +27202,9 @@ StartChar: uniFDF2
 Encoding: 65010 65010 629
 Width: 1957
 GlyphClass: 2
+AnchorPoint: "Anchor-1" 208 748 basechar 0
+AnchorPoint: "Anchor-2" 300 696 basechar 0
+AnchorPoint: "Anchor-3" 325 -234 basechar 0
 LayerCount: 2
 Fore
 SplineSet
