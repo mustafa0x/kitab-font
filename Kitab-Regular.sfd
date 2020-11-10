@@ -1498,7 +1498,7 @@ ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 1 contextual 25"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 1 contextual 24" 0 0 0 1
  1 0 1
-  Coverage: 720 uni0624 uni0631 uni0632 uni0648 uni0676 uni0677 uni0691 uni0692 uni0697 uni0698 uni0699 uni06C4 uni06C5 uni06C6 uni06C7 uni06C8 uni06C9 uni06CA uni06CB uni06CF uni06EF uni075B uni076B uni076C uni0771 uni0778 uni0779 uni08AA uni08AB uni08B2 uni08B9 uni0677.filled uni06C7.filled uni0624.fina uni0648.fina uni0676.fina uni0677.fina uni0677.fina.filled uni06C4.fina uni06C5.fina uni06C6.fina uni06C7.fina uni06C7.fina.filled uni06C8.fina uni06C9.fina uni06CA.fina uni06CB.fina uni06CF.fina uni0778.fina uni0779.fina uni08AB.fina uni0631.fina uni0632.fina uni0691.fina uni08B9.fina uni0692.fina uni0697.fina uni0698.fina uni0699.fina uni076B.fina uni076C.fina uni0771.fina uni08B2.fina uni06EF.fina uni075B.fina uni08AA.fina
+  Coverage: 808 uni0624 uni062F uni0630 uni0631 uni0632 uni0648 uni0676 uni0677 uni0688 uni0689 uni068A uni068B uni068C uni068D uni068E uni068F uni0690 uni0691 uni0692 uni0697 uni0698 uni0699 uni06C4 uni06C5 uni06C6 uni06C7 uni06C8 uni06C9 uni06CA uni06CB uni06CF uni06EF uni075B uni076B uni076C uni0771 uni0778 uni0779 uni08AA uni08AB uni08B2 uni08B9 uni0677.filled uni06C7.filled uni0624.fina uni0648.fina uni0676.fina uni0677.fina uni0677.fina.filled uni06C4.fina uni06C5.fina uni06C6.fina uni06C7.fina uni06C7.fina.filled uni06C8.fina uni06C9.fina uni06CA.fina uni06CB.fina uni06CF.fina uni0778.fina uni0779.fina uni08AB.fina uni0631.fina uni0632.fina uni0691.fina uni08B9.fina uni0692.fina uni0697.fina uni0698.fina uni0699.fina uni076B.fina uni076C.fina uni0771.fina uni08B2.fina uni06EF.fina uni075B.fina uni08AA.fina
   FCoverage: 55 uni0639 uni063A uni06A0 uni06FC uni075D uni075E uni075F
  1
   SeqLookup: 0 "Single Positioning lookup 20"
@@ -12378,6 +12378,7 @@ SplineSet
  669 491 669 491 692.5 412 c 128,-1,45
  716 333 716 333 716 259 c 0,0,1
 EndSplineSet
+Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni062F.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni062F.fina
 EndChar
@@ -12393,6 +12394,7 @@ LayerCount: 2
 Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 404 1014 2
+Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni0630.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0630.fina
 EndChar
@@ -15455,6 +15457,7 @@ LayerCount: 2
 Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1404 -1 N 1 0 0 1 438 1044 2
+Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni0688.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0688.fina
 EndChar
@@ -15529,6 +15532,7 @@ SplineSet
  480 -164 480 -164 489.5 -156 c 128,-1,76
  499 -148 499 -148 499 -140 c 0,61,62
 EndSplineSet
+Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni0689.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0689.fina
 EndChar
@@ -15544,6 +15548,7 @@ LayerCount: 2
 Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 404 -246 2
+Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni068A.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni068A.fina
 EndChar
@@ -15560,6 +15565,7 @@ Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1404 -1 N 1 0 0 1 438 1044 2
 Refer: 1380 -1 N 1 0 0 1 404 -246 2
+Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni068B.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni068B.fina
 EndChar
@@ -15575,6 +15581,7 @@ LayerCount: 2
 Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1385 -1 N 1 0 0 1 404 1024 2
+Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni068C.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni068C.fina
 EndChar
@@ -15590,6 +15597,7 @@ LayerCount: 2
 Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1385 -1 N 1 0 0 1 404 -260 2
+Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni068D.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni068D.fina
 EndChar
@@ -15605,6 +15613,7 @@ LayerCount: 2
 Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1390 -1 N 1 0 0 1 407 1140 2
+Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni068E.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni068E.fina
 EndChar
@@ -15620,6 +15629,7 @@ LayerCount: 2
 Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1388 -1 N 1 0 0 1 406 1258 2
+Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni068F.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni068F.fina
 EndChar
@@ -15635,6 +15645,7 @@ LayerCount: 2
 Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1392 -1 N 1 0 0 1 407 1135 2
+Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni0690.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0690.fina
 EndChar
