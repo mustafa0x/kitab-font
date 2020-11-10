@@ -11,5 +11,5 @@ all: Kitab-Regular.ttf Kitab-Bold.ttf
 	  font = fontforge.open('$<');                                         \
 	  font.generate('$(*F).tmp.ttf', flags=$(FLAGS))"
 	@echo " TTX	$@"
-	@ttx -q -o $(*F).ttx $(*F).tmp.ttf
-	@ttx -q -o $@ $(*F).ttx
+	@ttx -q -o $(*F).ttx $(*F).tmp.ttf && rm $(*F).tmp.ttf
+	@ttx -q -o $@ $(*F).ttx && rm $(*F).ttx
