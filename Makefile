@@ -1,15 +1,8 @@
-FLAGS = ('opentype', 'omit-instructions', 'no-mac-names', 'short-post')
-
 all: Kitab-Regular.ttf Kitab-Bold.ttf 
 
-%.ttf: %.sfd
+%.ttf: %.sfd lellah.fea
 	@echo " FF	$@"
-	@fontforge                                                             \
-	  -quiet                                                               \
-	  -lang=py                                                             \
-	  -c "import fontforge;                                                \
-	  font = fontforge.open('$<');                                         \
-	  font.generate('$(*F).tmp.ttf', flags=$(FLAGS))"
+	@fontforge -quiet -lang=py -script build.py $< $(*F).tmp.ttf lellah.fea
 	@echo " TTX	$@"
 	@ttx -q -o $(*F).ttx $(*F).tmp.ttf && rm $(*F).tmp.ttf
 	@ttx -q -o $@ $(*F).ttx && rm $(*F).ttx

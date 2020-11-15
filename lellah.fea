@@ -1,0 +1,37 @@
+%CLASSES%
+
+feature calt {
+ script arab;
+
+  # فتالله/فبالله
+  sub uni0641.init [uni0628.medi uni062A.medi] [uni0627.fina uni0671.fina] uni0644.init' uni0644.medi'                   uni0647.fina' by uni064406440647;
+  sub uni0641.init [uni0628.medi uni062A.medi] [uni0627.fina uni0671.fina] uni0644.init' uni0644.medi' uni0651' uni0670' uni0647.fina' by uni064406440647;
+  sub uni0641.init [uni0628.medi uni062A.medi] [uni0627.fina uni0671.fina] uni0644.init' uni0644.medi' uni0651'          uni0647.fina' by uni064406440647.alt;
+
+  # [ت|ب|ك|ف]الله
+  sub [uni0628.init uni062A.init uni0643.init uni0641.init] [uni0627.fina uni0671.fina] uni0644.init' uni0644.medi'                   uni0647.fina' by uni064406440647;
+  sub [uni0628.init uni062A.init uni0643.init uni0641.init] [uni0627.fina uni0671.fina] uni0644.init' uni0644.medi' uni0651' uni0670' uni0647.fina' by uni064406440647;
+  sub [uni0628.init uni062A.init uni0643.init uni0641.init] [uni0627.fina uni0671.fina] uni0644.init' uni0644.medi' uni0651'          uni0647.fina' by uni064406440647.alt;
+
+  # فوالله
+  sub uni0641.init uni0648.fina [uni0627 uni0671] uni0644.init' uni0644.medi'                   uni0647.fina' by uni064406440647;
+  sub uni0641.init uni0648.fina [uni0627 uni0671] uni0644.init' uni0644.medi' uni0651' uni0670' uni0647.fina' by uni064406440647;
+  sub uni0641.init uni0648.fina [uni0627 uni0671] uni0644.init' uni0644.medi' uni0651'          uni0647.fina' by uni064406440647.alt;
+
+  # والله
+  sub uni0648 [uni0627 uni0671] uni0644.init' uni0644.medi'                   uni0647.fina' by uni064406440647;
+  sub uni0648 [uni0627 uni0671] uni0644.init' uni0644.medi' uni0651' uni0670' uni0647.fina' by uni064406440647;
+  sub uni0648 [uni0627 uni0671] uni0644.init' uni0644.medi' uni0651'          uni0647.fina' by uni064406440647.alt;
+
+  # فلله
+  sub uni0641.init' uni0644.medi' uni0644.medi'                   uni0647.fina' by uni0641064406440647;
+  sub uni0641.init' uni0644.medi' uni0644.medi' uni0651' uni0670' uni0647.fina' by uni0641064406440647;
+  sub uni0641.init' uni0644.medi' uni0644.medi' uni0651'          uni0647.fina' by uni0641064406440647.alt;
+
+  ignore sub @AllExceptWawAndAlef uni0644.init' uni0644.medi' uni0647.fina';
+  ignore sub @All @AllExceptWawAndAlef uni0644.init' uni0644.medi' uni0647.fina';
+
+  sub uni0644.init' uni0644.medi'                   uni0647.fina' by uni064406440647;
+  sub uni0644.init' uni0644.medi' uni0651' uni0670' uni0647.fina' by uni064406440647;
+  sub uni0644.init' uni0644.medi' uni0651'          uni0647.fina' by uni064406440647.alt;
+} calt;
