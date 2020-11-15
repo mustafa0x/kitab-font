@@ -1,12 +1,21 @@
 import fontforge
 import sys
+import unicodedata
 
 FLAGS = ('opentype', 'omit-instructions', 'no-mac-names') #, 'short-post')
 
 font = fontforge.open(sys.argv[1])
 
-allA = {g.glyphname for g in font.glyphs()}
-allE = allA - {"uni0627" "uni0622" "uni0671" "uni0627.fina" "uni0671.fina" "uni0648"}
+allA = set()
+for glyph in font.glyphs():
+    if glyph.unicode > 0:
+        ct = unicodedata.category(chr(glyph.unicode))
+        if ct[0] not in {"L", "M", "N"}:
+            print(glyph.glyphname, ct)
+            continue
+    allA.add(glyph.glyphname)
+
+allE = allA - {"uni0627", "uni0622", "uni0671", "uni0627.fina", "uni0671.fina", "uni0648"}
 with open(sys.argv[3]) as f:
     classes = f"@All = [{' '.join(allA)}];\n@AllExceptWawAndAlef = [{' '.join(allE)}];"
     fea = f.read().replace("%CLASSES%", classes)

@@ -28,8 +28,8 @@ feature calt {
   sub uni0641.init' uni0644.medi' uni0644.medi' uni0651' uni0670' uni0647.fina' by uni0641064406440647;
   sub uni0641.init' uni0644.medi' uni0644.medi' uni0651'          uni0647.fina' by uni0641064406440647.alt;
 
-  ignore sub @AllExceptWawAndAlef uni0644.init' uni0644.medi' uni0647.fina';
-  ignore sub @All @AllExceptWawAndAlef uni0644.init' uni0644.medi' uni0647.fina';
+  ignore sub @AllExceptWawAndAlef' uni0644.init' uni0644.medi' uni0647.fina';
+  ignore sub @All' @AllExceptWawAndAlef' uni0644.init' uni0644.medi' uni0647.fina';
 
   sub uni0644.init' uni0644.medi'                   uni0647.fina' by uni064406440647;
   sub uni0644.init' uni0644.medi' uni0651' uni0670' uni0647.fina' by uni064406440647;
