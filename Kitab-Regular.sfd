@@ -114,7 +114,7 @@ Lookup: 1 0 0 "wide final alef" { "wide final alef-1"  } []
 Lookup: 6 0 1 "'rlig' Required Ligatures in Arabic lookup 56" { "'rlig' Required Ligatures in Arabic lookup 56-1"  } ['rlig' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 1 0 0 "wide tatweel" { "wide tatweel-1"  } []
 Lookup: 259 9 0 "'curs' Cursive Attachment in Arabic lookup 0" { "'curs' Cursive Attachment in Arabic lookup 0 subtable"  } ['curs' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 264 8 0 "'kern' Horizontal Kerning in Arabic lookup 1" { "'kern' Horizontal Kerning in Arabic lookup 1 contextual 0"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 1"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 2"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 3"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 4"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 5"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 6"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 7"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 8"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 9"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 10"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 11"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 12"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 13"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 14"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 15"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 16"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 17"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 18"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 19"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 20"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 21"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 22"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 23"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 24"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 25"  } ['kern' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
+Lookup: 264 8 0 "'kern' Horizontal Kerning in Arabic lookup 1" { "'kern' Horizontal Kerning in Arabic lookup 1 contextual 0"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 1"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 2"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 3"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 4"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 5"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 6"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 7"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 8"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 9"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 10"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 11"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 12"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 13"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 14"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 15"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 16"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 17"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 18"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 19"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 20"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 21"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 22"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 23"  } ['kern' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning lookup 2" { "'mark' Mark Positioning lookup 2 anchor 0"  "'mark' Mark Positioning lookup 2 anchor 1"  } ['kern' ('arab' <'KUR ' > ) 'mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 264 131089 0 "'mark' Mark Positioning in Arabic lookup 3" { "'mark' Mark Positioning in Arabic lookup 3 contextual 0"  "'mark' Mark Positioning in Arabic lookup 3 contextual 1"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 264 131089 0 "'mark' Mark Positioning in Arabic lookup 4" { "'mark' Mark Positioning in Arabic lookup 4 contextual 0"  "'mark' Mark Positioning in Arabic lookup 4 contextual 1"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
@@ -133,7 +133,6 @@ Lookup: 257 1 0 "Single Positioning lookup 16" { "Single Positioning lookup 16 s
 Lookup: 257 1 0 "Single Positioning lookup 17" { "Single Positioning lookup 17 subtable"  } []
 Lookup: 257 1 0 "Single Positioning lookup 18" { "Single Positioning lookup 18 subtable"  } []
 Lookup: 257 1 0 "Single Positioning lookup 19" { "Single Positioning lookup 19 subtable"  } []
-Lookup: 257 1 0 "Single Positioning lookup 20" { "Single Positioning lookup 20 subtable"  } []
 Lookup: 260 131089 0 "Mark to base attachment lookup 21" { "Mark to base attachment lookup 21 subtable"  } []
 Lookup: 260 131089 0 "Mark to base attachment lookup 22" { "Mark to base attachment lookup 22 subtable"  } []
 Lookup: 260 131089 0 "Mark to base attachment lookup 23" { "Mark to base attachment lookup 23 subtable"  } []
@@ -1487,21 +1486,6 @@ ChainPos2: coverage "'mark' Mark Positioning in Arabic lookup 3 contextual 0" 0 
   FCoverage: 142 uni06D2.fina uni06D3.fina uni077A.fina uni077B.fina uni0639.fina uni063A.fina uni06A0.fina uni06FC.fina uni075D.fina uni075E.fina uni075F.fina
  1
   SeqLookup: 0 "Mark to base attachment lookup 21"
-EndFPST
-ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 1 contextual 25" 0 0 0 1
- 1 0 2
-  Coverage: 720 uni0624 uni0631 uni0632 uni0648 uni0676 uni0677 uni0691 uni0692 uni0697 uni0698 uni0699 uni06C4 uni06C5 uni06C6 uni06C7 uni06C8 uni06C9 uni06CA uni06CB uni06CF uni06EF uni075B uni076B uni076C uni0771 uni0778 uni0779 uni08AA uni08AB uni08B2 uni08B9 uni0677.filled uni06C7.filled uni0624.fina uni0648.fina uni0676.fina uni0677.fina uni0677.fina.filled uni06C4.fina uni06C5.fina uni06C6.fina uni06C7.fina uni06C7.fina.filled uni06C8.fina uni06C9.fina uni06CA.fina uni06CB.fina uni06CF.fina uni0778.fina uni0779.fina uni08AB.fina uni0631.fina uni0632.fina uni0691.fina uni08B9.fina uni0692.fina uni0697.fina uni0698.fina uni0699.fina uni076B.fina uni076C.fina uni0771.fina uni08B2.fina uni06EF.fina uni075B.fina uni08AA.fina
-  FCoverage: 833 uni0610 uni0611 uni0612 uni0613 uni0614 uni0615 uni0616 uni0617 uni0618 uni0619 uni064B uni064C uni064E uni064F uni0651 uni0652 uni0653 uni0654 uni0657 uni0658 uni0659 uni065A uni065B uni065D uni065E uni0670 uni06D6 uni06D7 uni06D8 uni06D9 uni06DA uni06DB uni06DC uni06DF uni06E0 uni06E1 uni06E2 uni06E4 uni06E7 uni06E8 uni06EB uni06EC uni08E4 uni08E5 uni08E7 uni08E8 uni08EA uni08EB uni08EC uni08F0 uni08F1 uni08F3 uni08F4 uni08F5 uni08F7 uni08F8 uni08FB uni08FC uni08FD uni08FE uni08FF uni064C.sixNine uni064F.short uni064F.filled uni0652.downOpen uni0652.leftOpen uni0653.small uni0657.open uni0670.large uni0651064B uni0651064C uni0651064C.sixNine uni0651064D uni0651064E uni0651064F uni0651064F.short uni0651064F.filled uni06510650 uni0654064E uni0654064F uni0654064F.short uni0654064F.filled uni06510670 uni064E06E2 uni064F06E2
-  FCoverage: 55 uni0639 uni063A uni06A0 uni06FC uni075D uni075E uni075F
- 1
-  SeqLookup: 0 "Single Positioning lookup 20"
-EndFPST
-ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 1 contextual 24" 0 0 0 1
- 1 0 1
-  Coverage: 1448 uni0622 uni0623 uni0624 uni0625 uni0627 uni062F uni0630 uni0631 uni0632 uni0648 uni0671 uni0672 uni0673 uni0675 uni0676 uni0677 uni0688 uni0689 uni068A uni068B uni068C uni068D uni068E uni068F uni0690 uni0691 uni0692 uni0697 uni0698 uni0699 uni06C4 uni06C5 uni06C6 uni06C7 uni06C8 uni06C9 uni06CA uni06CB uni06CF uni06EF uni075B uni076B uni076C uni0771 uni0778 uni0779 uni08AA uni08AB uni08B2 uni08B9 uni0677.filled uni06C7.filled uni062F.sen uni0630.sen uni0688.sen uni0689.sen uni068A.sen uni068B.sen uni068C.sen uni068D.sen uni068E.sen uni068F.sen uni0690.sen uni06EE.sen uni0759.sen uni075A.sen uni08AE.sen uni0622.fina uni0622.fina.small uni0623.fina uni0625.fina uni0627.fina uni0672.fina uni0673.fina uni0675.fina uni0671.fina uni0773.fina uni0774.fina uni0624.fina uni0648.fina uni0676.fina uni0677.fina uni0677.fina.filled uni06C4.fina uni06C5.fina uni06C6.fina uni06C7.fina uni06C7.fina.filled uni06C8.fina uni06C9.fina uni06CA.fina uni06CB.fina uni06CF.fina uni0778.fina uni0779.fina uni08AB.fina uni062F.fina uni0630.fina uni0688.fina uni0689.fina uni068A.fina uni068B.fina uni068C.fina uni068D.fina uni068E.fina uni068F.fina uni0690.fina uni06EE.fina uni0759.fina uni075A.fina uni08AE.fina uni0631.fina uni0632.fina uni0691.fina uni08B9.fina uni0692.fina uni0693.fina uni0694.fina uni0695.fina uni0696.fina uni0697.fina uni0698.fina uni0699.fina uni076B.fina uni076C.fina uni0771.fina uni08B2.fina uni06EF.fina uni075B.fina uni08AA.fina
-  FCoverage: 55 uni0639 uni063A uni06A0 uni06FC uni075D uni075E uni075F
- 1
-  SeqLookup: 0 "Single Positioning lookup 20"
 EndFPST
 ChainPos2: coverage "'kern' Horizontal Kerning in Arabic lookup 1 contextual 23" 0 0 0 1
  1 0 2
@@ -12048,7 +12032,6 @@ LayerCount: 2
 Fore
 Refer: 246 1575 N 1 0 0 1 0 0 3
 Refer: 1401 -1 N 1 0 0 1 168 1505 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0622.fina
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 1 subtable" uni0627 uni0653
 Substitution2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0622.small
@@ -12064,7 +12047,6 @@ LayerCount: 2
 Fore
 Refer: 246 1575 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 191 1582 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0623.fina
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 1 subtable" uni0627 uni0654
 EndChar
@@ -12081,7 +12063,6 @@ Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 494 877 2
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 11 subtable" uni0648 uni0654
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0624.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -12099,7 +12080,6 @@ LayerCount: 2
 Fore
 Refer: 246 1575 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 191 -386 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0625.fina
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 1 subtable" uni0627 uni0655
 EndChar
@@ -12159,7 +12139,6 @@ SplineSet
  282 309 l 1,31,-1
  282 309 l 1,0,1
 EndSplineSet
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0627.fina
 EndChar
 
@@ -12382,7 +12361,6 @@ SplineSet
  669 491 669 491 692.5 412 c 128,-1,45
  716 333 716 333 716 259 c 0,0,1
 EndSplineSet
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni062F.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni062F.fina
 EndChar
@@ -12398,7 +12376,6 @@ LayerCount: 2
 Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 404 1014 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni0630.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0630.fina
 EndChar
@@ -12450,7 +12427,6 @@ SplineSet
  589 107 589 107 589 64 c 0,0,1
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0631.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -12470,7 +12446,6 @@ Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 485 686 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0632.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -12821,7 +12796,7 @@ EndChar
 
 StartChar: uni0639
 Encoding: 1593 1593 264
-Width: 1355
+Width: 965
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 435 -1092 basechar 0
 AnchorPoint: "Anchor-2" 396 1170 basechar 0
@@ -12912,7 +12887,7 @@ EndChar
 
 StartChar: uni063A
 Encoding: 1594 1594 265
-Width: 1355
+Width: 965
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 435 -1092 basechar 0
 AnchorPoint: "Anchor-2" 396 1414 basechar 0
@@ -13420,7 +13395,6 @@ SplineSet
  516 302 516 302 524 320 c 1,50,51
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0648.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -14996,7 +14970,6 @@ LayerCount: 2
 Fore
 Refer: 246 1575 N 1 0 0 1 0 0 3
 Refer: 1411 -1 N 1 0 0 1 234 1516 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0671.fina
 EndChar
 
@@ -15010,7 +14983,6 @@ LayerCount: 2
 Fore
 Refer: 246 1575 N 1 0 0 1 0 0 3
 Refer: 1412 -1 N 1 0 0 1 192 1573 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0672.fina
 EndChar
 
@@ -15025,7 +14997,6 @@ LayerCount: 2
 Fore
 Refer: 246 1575 N 1 0 0 1 0 0 3
 Refer: 1412 -1 N 1 0 0 1 192 -400 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0673.fina
 EndChar
 
@@ -15051,7 +15022,6 @@ LayerCount: 2
 Fore
 Refer: 246 1575 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 391 1584 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0675.fina
 EndChar
 
@@ -15067,7 +15037,6 @@ Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 694 880 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0676.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -15088,7 +15057,6 @@ Refer: 1371 -1 N 1 0 0 1 377 850 2
 Refer: 1375 -1 N 1 0 0 1 740 998 2
 Substitution2: "Single Substitution in Arabic lookup 26 subtable" uni0677.filled
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0677.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -15465,7 +15433,6 @@ LayerCount: 2
 Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1404 -1 N 1 0 0 1 438 1044 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni0688.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0688.fina
 EndChar
@@ -15540,7 +15507,6 @@ SplineSet
  480 -164 480 -164 489.5 -156 c 128,-1,76
  499 -148 499 -148 499 -140 c 0,61,62
 EndSplineSet
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni0689.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0689.fina
 EndChar
@@ -15556,7 +15522,6 @@ LayerCount: 2
 Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 404 -246 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni068A.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni068A.fina
 EndChar
@@ -15573,7 +15538,6 @@ Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1404 -1 N 1 0 0 1 438 1044 2
 Refer: 1380 -1 N 1 0 0 1 404 -246 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni068B.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni068B.fina
 EndChar
@@ -15589,7 +15553,6 @@ LayerCount: 2
 Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1385 -1 N 1 0 0 1 404 1024 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni068C.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni068C.fina
 EndChar
@@ -15605,7 +15568,6 @@ LayerCount: 2
 Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1385 -1 N 1 0 0 1 404 -260 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni068D.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni068D.fina
 EndChar
@@ -15621,7 +15583,6 @@ LayerCount: 2
 Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1390 -1 N 1 0 0 1 407 1140 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni068E.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni068E.fina
 EndChar
@@ -15637,7 +15598,6 @@ LayerCount: 2
 Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1388 -1 N 1 0 0 1 406 1258 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni068F.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni068F.fina
 EndChar
@@ -15653,7 +15613,6 @@ LayerCount: 2
 Fore
 Refer: 254 1583 N 1 0 0 1 0 0 3
 Refer: 1392 -1 N 1 0 0 1 407 1135 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution in Arabic lookup 23 subtable" uni0690.sen
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0690.fina
 EndChar
@@ -15670,7 +15629,6 @@ Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1404 -1 N 1 0 0 1 519 716 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0691.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -15689,7 +15647,6 @@ Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1379 -1 N 1 0 0 1 491 723 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0692.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -15843,7 +15800,6 @@ Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1385 -1 N 1 0 0 1 485 697 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0697.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -15863,7 +15819,6 @@ Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1390 -1 N 1 0 0 1 487 812 2
 Substitution2: "Single Substitution lookup 36 subtable" uni08B2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0698.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -15882,7 +15837,6 @@ Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1392 -1 N 1 0 0 1 487 807 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0699.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -15989,7 +15943,7 @@ EndChar
 
 StartChar: uni06A0
 Encoding: 1696 1696 367
-Width: 1355
+Width: 965
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 435 -1092 basechar 0
 AnchorPoint: "Anchor-2" 363 1643 basechar 0
@@ -17268,7 +17222,6 @@ SplineSet
  516 302 516 302 524 320 c 1,81,82
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06C4.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -17352,7 +17305,6 @@ SplineSet
  516 302 516 302 524 320 c 1,70,71
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06C5.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -17371,7 +17323,6 @@ Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1379 -1 N 1 0 0 1 499 857 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06C6.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -17391,7 +17342,6 @@ Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1371 -1 N 1 0 0 1 520 872 2
 Substitution2: "Single Substitution in Arabic lookup 26 subtable" uni06C7.filled
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06C7.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -17410,7 +17360,6 @@ Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1410 -1 N 1 0 0 1 499 933 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06C8.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -17429,7 +17378,6 @@ Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1377 -1 N 1 0 0 1 493 825 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06C9.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -17449,7 +17397,6 @@ Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1385 -1 N 1 0 0 1 493 831 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06CA.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -17469,7 +17416,6 @@ Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1390 -1 N 1 0 0 1 495 946 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06CB.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -17608,7 +17554,6 @@ Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 493 820 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06CF.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -19730,7 +19675,6 @@ Fore
 Refer: 256 1585 N 1 0 0 1 0 0 2
 Refer: 1377 -1 N 1 0 0 1 485 691 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06EF.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -20055,7 +19999,7 @@ EndChar
 
 StartChar: uni06FC
 Encoding: 1788 1788 459
-Width: 1355
+Width: 965
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 435 -1092 basechar 0
 AnchorPoint: "Anchor-2" 396 1414 basechar 0
@@ -20350,7 +20294,6 @@ SplineSet
  654 -190 l 1,0,1
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni075B.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -20376,7 +20319,7 @@ EndChar
 
 StartChar: uni075D
 Encoding: 1885 1885 476
-Width: 1355
+Width: 965
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 435 -1092 basechar 0
 AnchorPoint: "Anchor-2" 373 1414 basechar 0
@@ -20392,7 +20335,7 @@ EndChar
 
 StartChar: uni075E
 Encoding: 1886 1886 477
-Width: 1355
+Width: 965
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 435 -1092 basechar 0
 AnchorPoint: "Anchor-2" 363 1643 basechar 0
@@ -20408,7 +20351,7 @@ EndChar
 
 StartChar: uni075F
 Encoding: 1887 1887 478
-Width: 1355
+Width: 965
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 435 -1092 basechar 0
 AnchorPoint: "Anchor-2" 363 1643 basechar 0
@@ -20687,7 +20630,6 @@ Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1386 -1 N 1 0 0 1 486 798 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni076B.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -20707,7 +20649,6 @@ Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 486 743 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni076C.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -20791,7 +20732,6 @@ Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1387 -1 N 1 0 0 1 495 697 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0771.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -20899,7 +20839,6 @@ Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1407 -1 N 1 0 0 1 497 694 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0778.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -20917,7 +20856,6 @@ Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1408 -1 N 1 0 0 1 495 703 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0779.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -21330,7 +21268,6 @@ SplineSet
  70 -442 70 -442 104 -442 c 0,48,49
 EndSplineSet
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni08AA.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -21350,7 +21287,6 @@ Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 220 -104 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni08AB.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -21601,7 +21537,6 @@ Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1381 -1 N 1 0 0 1 489 686 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni08B2.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -21610,7 +21545,7 @@ EndChar
 
 StartChar: uni08B3
 Encoding: 2227 2227 530
-Width: 1355
+Width: 965
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 435 -1092 basechar 0
 AnchorPoint: "Anchor-2" 396 1170 basechar 0
@@ -21681,7 +21616,6 @@ Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1406 -1 N 1 0 0 1 478 906 2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni08B9.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -31455,7 +31389,6 @@ LayerCount: 2
 Fore
 Refer: 246 1575 N 1 0 0 1 0 0 3
 Refer: 1402 -1 N 1 0 0 1 156 1474 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution lookup 30 subtable" uni0622
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0622.fina.small
 MultipleSubs2: "'ccmp' Glyph Composition/Decomposition in Arabic lookup 1 subtable" uni0627 uni0653.small
@@ -31472,7 +31405,6 @@ Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1372 -1 N 1 0 0 1 382 872 2
 Refer: 1375 -1 N 1 0 0 1 738 998 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -31490,7 +31422,6 @@ LayerCount: 2
 Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1372 -1 N 1 0 0 1 520 872 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -31580,7 +31511,6 @@ SplineSet
  276 941 276 941 300.5 960 c 128,-1,92
  325 979 325 979 334 979 c 0,0,1
 EndSplineSet
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni0630.sen
@@ -31594,7 +31524,6 @@ LayerCount: 2
 Fore
 Refer: 640 -1 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 343 1154 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni0688.sen
@@ -31608,7 +31537,6 @@ LayerCount: 2
 Fore
 Refer: 640 -1 N 1 0 0 1 0 0 3
 Refer: 1404 -1 N 1 0 0 1 377 1184 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni0689.sen
@@ -31715,7 +31643,6 @@ SplineSet
  458 -179 458 -179 467.5 -171.5 c 128,-1,120
  477 -164 477 -164 477 -156 c 0,105,106
 EndSplineSet
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni068A.sen
@@ -31729,7 +31656,6 @@ LayerCount: 2
 Fore
 Refer: 640 -1 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 377 -279 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni068B.sen
@@ -31744,7 +31670,6 @@ Fore
 Refer: 640 -1 N 1 0 0 1 0 0 3
 Refer: 1404 -1 N 1 0 0 1 377 1184 2
 Refer: 1380 -1 N 1 0 0 1 377 -279 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni068C.sen
@@ -31758,7 +31683,6 @@ LayerCount: 2
 Fore
 Refer: 640 -1 N 1 0 0 1 0 0 3
 Refer: 1385 -1 N 1 0 0 1 343 1165 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni068D.sen
@@ -31772,7 +31696,6 @@ LayerCount: 2
 Fore
 Refer: 640 -1 N 1 0 0 1 0 0 3
 Refer: 1385 -1 N 1 0 0 1 377 -294 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni068E.sen
@@ -31786,7 +31709,6 @@ LayerCount: 2
 Fore
 Refer: 640 -1 N 1 0 0 1 0 0 3
 Refer: 1390 -1 N 1 0 0 1 346 1280 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni068F.sen
@@ -31800,7 +31722,6 @@ LayerCount: 2
 Fore
 Refer: 640 -1 N 1 0 0 1 0 0 3
 Refer: 1388 -1 N 1 0 0 1 344 1399 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni0690.sen
@@ -31814,7 +31735,6 @@ LayerCount: 2
 Fore
 Refer: 640 -1 N 1 0 0 1 0 0 3
 Refer: 1392 -1 N 1 0 0 1 346 1275 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni06EE.sen
@@ -31827,7 +31747,6 @@ LayerCount: 2
 Fore
 Refer: 640 -1 N 1 0 0 1 0 0 3
 Refer: 1377 -1 N 1 0 0 1 343 1159 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni0759.sen
@@ -31842,7 +31761,6 @@ Fore
 Refer: 640 -1 N 1 0 0 1 0 0 3
 Refer: 1404 -1 N 1 0 0 1 377 1184 2
 Refer: 1386 -1 N 1 0 0 1 378 -393 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni075A.sen
@@ -31856,7 +31774,6 @@ LayerCount: 2
 Fore
 Refer: 640 -1 N 1 0 0 1 0 0 3
 Refer: 1378 -1 N 1 0 0 1 383 -313 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni08AE.sen
@@ -31870,7 +31787,6 @@ LayerCount: 2
 Fore
 Refer: 640 -1 N 1 0 0 1 0 0 3
 Refer: 1388 -1 N 1 0 0 1 378 -291 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni064A.noDots
@@ -32087,7 +32003,6 @@ LayerCount: 2
 Fore
 Refer: 665 -1 N 1 0 0 1 0 0 3
 Refer: 1401 -1 N 1 0 0 1 152 1510 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution lookup 42 subtable" uni0622.fina.postLamMed
 Substitution2: "Single Substitution lookup 41 subtable" uni0622.fina.postLamIni
 Substitution2: "'ccmp' Glyph Composition/Decomposition lookup 0 subtable" uni0622.fina.small
@@ -32103,7 +32018,6 @@ LayerCount: 2
 Fore
 Refer: 665 -1 N 1 0 0 1 0 0 3
 Refer: 1402 -1 N 1 0 0 1 140 1479 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution lookup 42 subtable" uni0622.fina.postLamMed.small
 Substitution2: "Single Substitution lookup 41 subtable" uni0622.fina.postLamIni.small
 Substitution2: "Single Substitution lookup 30 subtable" uni0622.fina
@@ -32119,7 +32033,6 @@ LayerCount: 2
 Fore
 Refer: 665 -1 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 175 1587 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution lookup 42 subtable" uni0623.fina.postLamMed
 Substitution2: "Single Substitution lookup 41 subtable" uni0623.fina.postLamIni
 EndChar
@@ -32135,7 +32048,6 @@ LayerCount: 2
 Fore
 Refer: 665 -1 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 294 -378 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution lookup 42 subtable" uni0625.fina.postLamMed
 Substitution2: "Single Substitution lookup 41 subtable" uni0625.fina.postLamIni
 EndChar
@@ -32190,7 +32102,6 @@ SplineSet
  555 126 555 126 557 112 c 128,-1,46
  559 98 559 98 559 82 c 256,0,1
 EndSplineSet
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "wide final alef-1" uni0627.fina.madda
 Substitution2: "Single Substitution lookup 42 subtable" uni0627.fina.postLamMed
 Substitution2: "Single Substitution lookup 41 subtable" uni0627.fina.postLamIni
@@ -32206,7 +32117,6 @@ LayerCount: 2
 Fore
 Refer: 665 -1 N 1 0 0 1 0 0 3
 Refer: 1412 -1 N 1 0 0 1 177 1578 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution lookup 42 subtable" uni0672.fina.postLamMed
 Substitution2: "Single Substitution lookup 41 subtable" uni0672.fina.postLamIni
 EndChar
@@ -32222,7 +32132,6 @@ LayerCount: 2
 Fore
 Refer: 665 -1 N 1 0 0 1 0 0 3
 Refer: 1412 -1 N 1 0 0 1 295 -393 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution lookup 42 subtable" uni0673.fina.postLamMed
 Substitution2: "Single Substitution lookup 41 subtable" uni0673.fina.postLamIni
 EndChar
@@ -32238,7 +32147,6 @@ LayerCount: 2
 Fore
 Refer: 665 -1 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 376 1590 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution lookup 42 subtable" uni0675.fina.postLamMed
 Substitution2: "Single Substitution lookup 41 subtable" uni0675.fina.postLamIni
 EndChar
@@ -32253,7 +32161,6 @@ LayerCount: 2
 Fore
 Refer: 665 -1 N 1 0 0 1 0 0 3
 Refer: 1411 -1 N 1 0 0 1 218 1521 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution lookup 42 subtable" uni0671.fina.postLamMed
 Substitution2: "Single Substitution lookup 41 subtable" uni0671.fina.postLamIni
 EndChar
@@ -32268,7 +32175,6 @@ LayerCount: 2
 Fore
 Refer: 665 -1 N 1 0 0 1 0 0 3
 Refer: 1407 -1 N 1 0 0 1 47 1102 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution lookup 42 subtable" uni0773.fina.postLamMed
 Substitution2: "Single Substitution lookup 41 subtable" uni0773.fina.postLamIni
 EndChar
@@ -32283,7 +32189,6 @@ LayerCount: 2
 Fore
 Refer: 665 -1 N 1 0 0 1 0 0 3
 Refer: 1408 -1 N 1 0 0 1 51 1111 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Substitution2: "Single Substitution lookup 42 subtable" uni0774.fina.postLamMed
 Substitution2: "Single Substitution lookup 41 subtable" uni0774.fina.postLamIni
 EndChar
@@ -32299,7 +32204,6 @@ Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 486 747 2
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 11 subtable" uni0648.fina uni0654
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32376,7 +32280,6 @@ SplineSet
  402 203 402 203 444 185.5 c 128,-1,72
  486 168 486 168 572 165 c 1,62,63
 EndSplineSet
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32395,7 +32298,6 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 686 750 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32415,7 +32317,6 @@ Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1371 -1 N 1 0 0 1 369 720 2
 Refer: 1375 -1 N 1 0 0 1 732 868 2
 Substitution2: "Single Substitution in Arabic lookup 26 subtable" uni0677.fina.filled
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32433,7 +32334,6 @@ Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1372 -1 N 1 0 0 1 374 742 2
 Refer: 1375 -1 N 1 0 0 1 730 868 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32534,7 +32434,6 @@ SplineSet
  402 203 402 203 444 185.5 c 128,-1,104
  486 168 486 168 572 165 c 1,94,95
 EndSplineSet
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32626,7 +32525,6 @@ SplineSet
  402 203 402 203 444 185.5 c 128,-1,92
  486 168 486 168 572 165 c 1,82,83
 EndSplineSet
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32644,7 +32542,6 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1379 -1 N 1 0 0 1 491 727 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32663,7 +32560,6 @@ Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1371 -1 N 1 0 0 1 512 742 2
 Substitution2: "Single Substitution in Arabic lookup 26 subtable" uni06C7.fina.filled
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32681,7 +32577,6 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1372 -1 N 1 0 0 1 512 742 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32699,7 +32594,6 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1410 -1 N 1 0 0 1 491 803 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32717,7 +32611,6 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1377 -1 N 1 0 0 1 485 695 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32736,7 +32629,6 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1385 -1 N 1 0 0 1 485 701 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32755,7 +32647,6 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1390 -1 N 1 0 0 1 487 816 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32773,7 +32664,6 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 485 690 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32791,7 +32681,6 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1407 -1 N 1 0 0 1 489 564 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32808,7 +32697,6 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1408 -1 N 1 0 0 1 487 573 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32826,7 +32714,6 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 196 -161 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -32902,7 +32789,6 @@ SplineSet
  1074 126 1074 126 1076 112 c 128,-1,71
  1078 98 1078 98 1078 82 c 256,0,1
 EndSplineSet
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni0630.fina
@@ -32916,7 +32802,6 @@ LayerCount: 2
 Fore
 Refer: 690 -1 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 606 1232 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni0688.fina
@@ -32930,7 +32815,6 @@ LayerCount: 2
 Fore
 Refer: 690 -1 N 1 0 0 1 0 0 3
 Refer: 1404 -1 N 1 0 0 1 640 1262 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni0689.fina
@@ -33023,7 +32907,6 @@ SplineSet
  452 -122 452 -122 462 -114.5 c 128,-1,100
  472 -107 472 -107 472 -99 c 0,85,86
 EndSplineSet
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni068A.fina
@@ -33037,7 +32920,6 @@ LayerCount: 2
 Fore
 Refer: 690 -1 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 539 -235 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni068B.fina
@@ -33052,7 +32934,6 @@ Fore
 Refer: 690 -1 N 1 0 0 1 0 0 3
 Refer: 1404 -1 N 1 0 0 1 640 1262 2
 Refer: 1380 -1 N 1 0 0 1 539 -235 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni068C.fina
@@ -33065,7 +32946,6 @@ LayerCount: 2
 Fore
 Refer: 690 -1 N 1 0 0 1 0 0 3
 Refer: 1385 -1 N 1 0 0 1 606 1243 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni068D.fina
@@ -33079,7 +32959,6 @@ LayerCount: 2
 Fore
 Refer: 690 -1 N 1 0 0 1 0 0 3
 Refer: 1385 -1 N 1 0 0 1 539 -250 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni068E.fina
@@ -33093,7 +32972,6 @@ LayerCount: 2
 Fore
 Refer: 690 -1 N 1 0 0 1 0 0 3
 Refer: 1390 -1 N 1 0 0 1 608 1358 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni068F.fina
@@ -33106,7 +32984,6 @@ LayerCount: 2
 Fore
 Refer: 690 -1 N 1 0 0 1 0 0 3
 Refer: 1388 -1 N 1 0 0 1 607 1477 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni0690.fina
@@ -33119,7 +32996,6 @@ LayerCount: 2
 Fore
 Refer: 690 -1 N 1 0 0 1 0 0 3
 Refer: 1392 -1 N 1 0 0 1 608 1353 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni06EE.fina
@@ -33133,7 +33009,6 @@ LayerCount: 2
 Fore
 Refer: 690 -1 N 1 0 0 1 0 0 3
 Refer: 1377 -1 N 1 0 0 1 606 1237 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni0759.fina
@@ -33148,7 +33023,6 @@ Fore
 Refer: 690 -1 N 1 0 0 1 0 0 3
 Refer: 1404 -1 N 1 0 0 1 640 1262 2
 Refer: 1386 -1 N 1 0 0 1 541 -348 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni075A.fina
@@ -33162,7 +33036,6 @@ LayerCount: 2
 Fore
 Refer: 690 -1 N 1 0 0 1 0 0 3
 Refer: 1378 -1 N 1 0 0 1 546 -269 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni08AE.fina
@@ -33176,7 +33049,6 @@ LayerCount: 2
 Fore
 Refer: 690 -1 N 1 0 0 1 0 0 3
 Refer: 1388 -1 N 1 0 0 1 541 -247 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 EndChar
 
 StartChar: uni0631.fina
@@ -33238,7 +33110,6 @@ SplineSet
  717 126 717 126 719 112 c 128,-1,59
  721 98 721 98 721 82 c 256,0,1
 EndSplineSet
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -33257,7 +33128,6 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 451 489 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -33276,7 +33146,6 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1404 -1 N 1 0 0 1 485 519 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -33293,7 +33162,6 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1406 -1 N 1 0 0 1 445 708 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -33311,7 +33179,6 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1379 -1 N 1 0 0 1 458 525 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -33476,7 +33343,6 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1385 -1 N 1 0 0 1 451 499 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -33495,7 +33361,6 @@ Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1390 -1 N 1 0 0 1 454 615 2
 Substitution2: "Single Substitution lookup 36 subtable" uni08B2.fina
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -33513,7 +33378,6 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1392 -1 N 1 0 0 1 454 610 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -33532,7 +33396,6 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1386 -1 N 1 0 0 1 452 601 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -33551,7 +33414,6 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 452 546 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -33570,7 +33432,6 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1387 -1 N 1 0 0 1 461 499 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -33587,7 +33448,6 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1381 -1 N 1 0 0 1 455 489 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -33604,7 +33464,6 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1377 -1 N 1 0 0 1 451 494 2
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -33685,7 +33544,6 @@ SplineSet
  651 -174 651 -174 669 -181 c 1,79,-1
  638 -256 l 1,0,1
 EndSplineSet
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
@@ -33761,7 +33619,6 @@ SplineSet
  -48 -454 -48 -454 -25 -467 c 128,-1,74
  -2 -480 -2 -480 19 -480 c 0,63,64
 EndSplineSet
-Position2: "Single Positioning lookup 20 subtable" dx=-390 dy=0 dh=-390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=117 dy=0 dh=117 dv=0
