@@ -6,6 +6,10 @@ FLAGS = ("opentype", "omit-instructions", "no-mac-names")  # , 'short-post')
 
 font = fontforge.open(sys.argv[1])
 
+font.selection.all()
+font.correctReferences()
+font.selection.none()
+
 allA = set()
 for glyph in font.glyphs():
     if glyph.unicode > 0:
