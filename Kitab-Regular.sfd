@@ -12206,7 +12206,7 @@ EndChar
 
 StartChar: uni062C
 Encoding: 1580 1580 251
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 530 975 basechar 0
@@ -12222,7 +12222,7 @@ EndChar
 
 StartChar: uni062D
 Encoding: 1581 1581 252
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 530 975 basechar 0
@@ -12300,7 +12300,7 @@ EndChar
 
 StartChar: uni062E
 Encoding: 1582 1582 253
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 556 1170 basechar 0
@@ -15312,7 +15312,7 @@ EndChar
 
 StartChar: uni0681
 Encoding: 1665 1665 336
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 588 1269 basechar 0
@@ -15328,7 +15328,7 @@ EndChar
 
 StartChar: uni0682
 Encoding: 1666 1666 337
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 567 1326 basechar 0
@@ -15344,7 +15344,7 @@ EndChar
 
 StartChar: uni0683
 Encoding: 1667 1667 338
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 530 975 basechar 0
@@ -15360,7 +15360,7 @@ EndChar
 
 StartChar: uni0684
 Encoding: 1668 1668 339
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 530 975 basechar 0
@@ -15376,7 +15376,7 @@ EndChar
 
 StartChar: uni0685
 Encoding: 1669 1669 340
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 562 1347 basechar 0
@@ -15392,7 +15392,7 @@ EndChar
 
 StartChar: uni0686
 Encoding: 1670 1670 341
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 530 975 basechar 0
@@ -15408,7 +15408,7 @@ EndChar
 
 StartChar: uni0687
 Encoding: 1671 1671 342
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 530 975 basechar 0
@@ -17061,7 +17061,7 @@ EndChar
 
 StartChar: uni06BF
 Encoding: 1727 1727 398
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 556 1170 basechar 0
@@ -20172,7 +20172,7 @@ EndChar
 
 StartChar: uni0757
 Encoding: 1879 1879 470
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 551 1170 basechar 0
@@ -20188,7 +20188,7 @@ EndChar
 
 StartChar: uni0758
 Encoding: 1880 1880 471
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 530 975 basechar 0
@@ -20674,7 +20674,7 @@ EndChar
 
 StartChar: uni076E
 Encoding: 1902 1902 493
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 530 975 basechar 0
@@ -20690,7 +20690,7 @@ EndChar
 
 StartChar: uni076F
 Encoding: 1903 1903 494
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 530 975 basechar 0
@@ -20740,7 +20740,7 @@ EndChar
 
 StartChar: uni0772
 Encoding: 1906 1906 497
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 536 1456 basechar 0
@@ -20896,7 +20896,7 @@ EndChar
 
 StartChar: uni077C
 Encoding: 1916 1916 507
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 530 975 basechar 0
@@ -20993,7 +20993,7 @@ EndChar
 
 StartChar: uni08A2
 Encoding: 2210 2210 513
-Width: 1368
+Width: 1148
 GlyphClass: 2
 AnchorPoint: "Anchor-3" 520 -1072 basechar 0
 AnchorPoint: "Anchor-2" 551 1170 basechar 0
