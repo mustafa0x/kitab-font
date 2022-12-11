@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1440087096
-ModificationTime: 1670706819
+ModificationTime: 1670790047
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -116,7 +116,7 @@ Lookup: 6 0 1 "'rlig' Required Ligatures in Arabic lookup 56" { "'rlig' Required
 Lookup: 1 0 0 "wide tatweel" { "wide tatweel-1"  } []
 Lookup: 259 9 0 "'curs' Cursive Attachment in Arabic lookup 0" { "'curs' Cursive Attachment in Arabic lookup 0 subtable"  } ['curs' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 264 8 0 "'kern' Horizontal Kerning in Arabic lookup 1" { "'kern' Horizontal Kerning in Arabic lookup 1 contextual 0"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 1"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 2"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 3"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 4"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 5"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 6"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 7"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 8"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 9"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 10"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 11"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 12"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 13"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 14"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 15"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 16"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 17"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 18"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 19"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 20"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 21"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 22"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 23"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 24"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 25"  } ['kern' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
-Lookup: 264 0 0 "'kern' Kern exceptions" { "'kern' Kern exceptions 0"  } ['kern' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
+Lookup: 264 0 0 "Kitab-Regular-'kern' Kern exceptions" { "Kitab-Regular-'kern' Kern exceptions 0"  "Kitab-Regular-'kern' Kern exceptions 1"  "Kitab-Regular-'kern' Kern exceptions 2"  } ['kern' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning lookup 2" { "'mark' Mark Positioning lookup 2 anchor 0"  "'mark' Mark Positioning lookup 2 anchor 1"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 264 131089 0 "'mark' Mark Positioning in Arabic lookup 3" { "'mark' Mark Positioning in Arabic lookup 3 contextual 0"  "'mark' Mark Positioning in Arabic lookup 3 contextual 1"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 264 131089 0 "'mark' Mark Positioning in Arabic lookup 4" { "'mark' Mark Positioning in Arabic lookup 4 contextual 0"  "'mark' Mark Positioning in Arabic lookup 4 contextual 1"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
@@ -131,11 +131,12 @@ Lookup: 264 9 0 "'kern' Horizontal Kerning lookup 12" { "'kern' Horizontal Kerni
 Lookup: 264 9 0 "'kern' Horizontal Kerning lookup 13" { "'kern' Horizontal Kerning lookup 13 contextual 0"  "'kern' Horizontal Kerning lookup 13 contextual 1"  "'kern' Horizontal Kerning lookup 13 contextual 2"  "'kern' Horizontal Kerning lookup 13 contextual 3"  "'kern' Horizontal Kerning lookup 13 contextual 4"  "'kern' Horizontal Kerning lookup 13 contextual 5"  "'kern' Horizontal Kerning lookup 13 contextual 6"  "'kern' Horizontal Kerning lookup 13 contextual 7"  "'kern' Horizontal Kerning lookup 13 contextual 8"  "'kern' Horizontal Kerning lookup 13 contextual 9"  "'kern' Horizontal Kerning lookup 13 contextual 10"  "'kern' Horizontal Kerning lookup 13 contextual 11"  "'kern' Horizontal Kerning lookup 13 contextual 12"  "'kern' Horizontal Kerning lookup 13 contextual 13"  "'kern' Horizontal Kerning lookup 13 contextual 14"  "'kern' Horizontal Kerning lookup 13 contextual 15"  "'kern' Horizontal Kerning lookup 13 contextual 16"  "'kern' Horizontal Kerning lookup 13 contextual 17"  "'kern' Horizontal Kerning lookup 13 contextual 18"  "'kern' Horizontal Kerning lookup 13 contextual 19"  } ['kern' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 264 9 0 "'kern' Horizontal Kerning lookup 14" { "'kern' Horizontal Kerning lookup 14 contextual 0"  "'kern' Horizontal Kerning lookup 14 contextual 1"  "'kern' Horizontal Kerning lookup 14 contextual 2"  "'kern' Horizontal Kerning lookup 14 contextual 3"  "'kern' Horizontal Kerning lookup 14 contextual 4"  "'kern' Horizontal Kerning lookup 14 contextual 5"  "'kern' Horizontal Kerning lookup 14 contextual 6"  "'kern' Horizontal Kerning lookup 14 contextual 7"  "'kern' Horizontal Kerning lookup 14 contextual 8"  "'kern' Horizontal Kerning lookup 14 contextual 9"  "'kern' Horizontal Kerning lookup 14 contextual 10"  "'kern' Horizontal Kerning lookup 14 contextual 11"  "'kern' Horizontal Kerning lookup 14 contextual 12"  "'kern' Horizontal Kerning lookup 14 contextual 13"  "'kern' Horizontal Kerning lookup 14 contextual 14"  "'kern' Horizontal Kerning lookup 14 contextual 15"  "'kern' Horizontal Kerning lookup 14 contextual 16"  "'kern' Horizontal Kerning lookup 14 contextual 17"  "'kern' Horizontal Kerning lookup 14 contextual 18"  "'kern' Horizontal Kerning lookup 14 contextual 19"  } ['kern' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 257 1 0 "Single Positioning lookup 15" { "Single Positioning lookup 15 subtable"  } []
-Lookup: 257 0 0 "Kern exceptions" { "Kern exceptions subtable"  } []
+Lookup: 257 0 0 "Kitab-Regular-Kern exceptions 0" { "Kitab-Regular-Kern exceptions 0 subtable"  } []
 Lookup: 257 1 0 "Single Positioning lookup 16" { "Single Positioning lookup 16 subtable"  } []
 Lookup: 257 1 0 "Single Positioning lookup 17" { "Single Positioning lookup 17 subtable"  } []
 Lookup: 257 1 0 "Single Positioning lookup 18" { "Single Positioning lookup 18 subtable"  } []
 Lookup: 257 1 0 "Single Positioning lookup 19" { "Single Positioning lookup 19 subtable"  } []
+Lookup: 257 1 0 "Kitab-Regular-Kern exceptions 1" { "Kitab-Regular-Kern exceptions 1 subtable"  } []
 Lookup: 260 131089 0 "Mark to base attachment lookup 21" { "Mark to base attachment lookup 21 subtable"  } []
 Lookup: 260 131089 0 "Mark to base attachment lookup 22" { "Mark to base attachment lookup 22 subtable"  } []
 Lookup: 260 131089 0 "Mark to base attachment lookup 23" { "Mark to base attachment lookup 23 subtable"  } []
@@ -205,13 +206,30 @@ MarkAttachSets: 5
 "MarkSet-3" 833 uni0610 uni0611 uni0612 uni0613 uni0614 uni0615 uni0616 uni0617 uni0618 uni0619 uni064B uni064C uni064E uni064F uni0651 uni0652 uni0653 uni0654 uni0657 uni0658 uni0659 uni065A uni065B uni065D uni065E uni0670 uni06D6 uni06D7 uni06D8 uni06D9 uni06DA uni06DB uni06DC uni06DF uni06E0 uni06E1 uni06E2 uni06E4 uni06E7 uni06E8 uni06EB uni06EC uni08E4 uni08E5 uni08E7 uni08E8 uni08EA uni08EB uni08EC uni08F0 uni08F1 uni08F3 uni08F4 uni08F5 uni08F7 uni08F8 uni08FB uni08FC uni08FD uni08FE uni08FF uni064C.sixNine uni064F.short uni064F.filled uni0652.downOpen uni0652.leftOpen uni0653.small uni0657.open uni0670.large uni0651064B uni0651064C uni0651064C.sixNine uni0651064D uni0651064E uni0651064F uni0651064F.short uni0651064F.filled uni06510650 uni0654064E uni0654064F uni0654064F.short uni0654064F.filled uni06510670 uni064E06E2 uni064F06E2
 "MarkSet-4" 11 uni0654064E
 DEI: 91125
-ChainPos2: coverage "'kern' Kern exceptions 0" 0 0 0 1
+ChainPos2: coverage "Kitab-Regular-'kern' Kern exceptions 2" 0 0 0 1
+ 1 0 3
+  Coverage: 7 uni0627
+  FCoverage: 7 uni0655
+  FCoverage: 23 uni064D uni0650 uni08F2
+  FCoverage: 127 uni062C uni062D uni062E uni0681 uni0682 uni0683 uni0684 uni0685 uni0686 uni0687 uni06BF uni0757 uni0758 uni076E uni076F uni08A2
+ 1
+  SeqLookup: 0 "Kitab-Regular-Kern exceptions 1"
+EndFPST
+ChainPos2: coverage "Kitab-Regular-'kern' Kern exceptions 1" 0 0 0 1
+ 1 0 2
+  Coverage: 804 uni0624 uni0631 uni0632 uni0648 uni0676 uni0677 uni0691 uni0692 uni0693 uni0694 uni0695 uni0696 uni0697 uni0698 uni0699 uni06C4 uni06C5 uni06C6 uni06C7 uni06C8 uni06C9 uni06CA uni06CB uni06CF uni06EF uni075B uni076B uni076C uni0771 uni0778 uni0779 uni08AA uni08AB uni08B2 uni08B9 uni0677.filled uni06C7.filled uni0624.fina uni0648.fina uni0676.fina uni0677.fina uni0677.fina.filled uni06C4.fina uni06C5.fina uni06C6.fina uni06C7.fina uni06C7.fina.filled uni06C8.fina uni06C9.fina uni06CA.fina uni06CB.fina uni06CF.fina uni0778.fina uni0779.fina uni08AB.fina uni0631.fina uni0632.fina uni0691.fina uni08B9.fina uni0692.fina uni0693.fina uni0694.fina uni0695.fina uni0696.fina uni0697.fina uni0698.fina uni0699.fina uni076B.fina uni076C.fina uni0771.fina uni08B2.fina uni06EF.fina uni075B.fina uni08AA.fina
+  FCoverage: 15 uni064D uni0650
+  FCoverage: 127 uni062C uni062D uni062E uni0681 uni0682 uni0683 uni0684 uni0685 uni0686 uni0687 uni06BF uni0757 uni0758 uni076E uni076F uni08A2
+ 1
+  SeqLookup: 0 "Kitab-Regular-Kern exceptions 1"
+EndFPST
+ChainPos2: coverage "Kitab-Regular-'kern' Kern exceptions 0" 0 0 0 1
  1 0 2
   Coverage: 474 uni0631 uni0632 uni0648 uni0676 uni0692 uni0693 uni0694 uni0695 uni0696 uni0697 uni0698 uni06C4 uni06C5 uni06C9 uni06CA uni06CF uni06EF uni075B uni076B uni076C uni08AA uni08AB uni0648.fina uni0676.fina uni06C4.fina uni06C5.fina uni06C9.fina uni06CA.fina uni06CF.fina uni08AB.fina uni0631.fina uni0632.fina uni0692.fina uni0693.fina uni0694.fina uni0695.fina uni0696.fina uni0697.fina uni0698.fina uni0699.fina uni076B.fina uni076C.fina uni06EF.fina uni075B.fina uni08AA.fina
   FCoverage: 537 uni064B uni064C uni064D uni064E uni064F uni0650 uni0651 uni0652 uni0654 uni0657 uni0658 uni0659 uni065A uni065B uni065D uni065E uni0674 uni06E1 uni08E4 uni08E5 uni08E6 uni08E7 uni08E8 uni08EB uni08EC uni08F0 uni08F1 uni08F2 uni08F3 uni08F4 uni08F5 uni08F6 uni08F7 uni08F8 uni08FB uni08FC uni08FD uni08FE uni08FF uni0651064B uni0651064C uni0651064C.sixNine uni0651064D uni0651064E uni0651064F uni0651064F.short uni0651064F.filled uni06510650 uni0654064E uni0654064F uni0654064F.short uni0654064F.filled uni06510670 uni064E06E2 uni064F06E2
   FCoverage: 371 uni063B uni063C uni06A9 uni06AB uni06AF uni06B0 uni06B1 uni06B2 uni06B3 uni06B4 uni0762 uni0763 uni0764 uni08B0 uni0643.init uni06AC.init uni08B4.init uni06AD.init uni077F.init uni06AE.init uni06A9.init uni06AB.init uni06AF.init uni06B0.init uni06B1.init uni06B2.init uni06B3.init uni06B4.init uni0762.init uni0763.init uni0764.init uni063B.init uni063C.init uni08B0.init
  1
-  SeqLookup: 0 "Kern exceptions"
+  SeqLookup: 0 "Kitab-Regular-Kern exceptions 0"
 EndFPST
 ChainSub2: coverage "'rlig' Required Ligatures in Arabic lookup 56-1" 0 0 0 1
  1 0 1
@@ -12283,6 +12301,7 @@ LayerCount: 2
 Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 536 1032 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 11 subtable" uni0648 uni0654
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0624.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
@@ -12362,6 +12381,7 @@ SplineSet
  360 338 l 1,32,-1
  360 338 l 1,0,1
 EndSplineSet
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=295 dy=0 dh=295 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0627.fina
 EndChar
 
@@ -12658,7 +12678,8 @@ SplineSet
  697 274 697 274 713 205 c 128,-1,51
  729 136 729 136 729 68 c 0,0,1
 EndSplineSet
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0631.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -12678,7 +12699,8 @@ LayerCount: 2
 Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 528 864 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0632.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -13668,7 +13690,8 @@ SplineSet
  517 350 517 350 535 362.5 c 128,-1,65
  553 375 553 375 559 389 c 1,54,55
 EndSplineSet
-Position2: "Kern exceptions subtable" dx=290 dy=0 dh=290 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=290 dy=0 dh=290 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0648.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -15382,7 +15405,8 @@ LayerCount: 2
 Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 740 1046 2
-Position2: "Kern exceptions subtable" dx=290 dy=0 dh=290 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=290 dy=0 dh=290 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0676.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -15402,6 +15426,7 @@ Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1371 -1 N 1 0 0 1 376 983 2
 Refer: 1375 -1 N 1 0 0 1 794 1170 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Substitution2: "Single Substitution in Arabic lookup 26 subtable" uni0677.filled
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0677.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
@@ -15986,6 +16011,7 @@ LayerCount: 2
 Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1404 -1 N 1 0 0 1 572 782 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0691.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -16004,7 +16030,8 @@ LayerCount: 2
 Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1379 -1 N 1 0 0 1 552 873 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0692.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -16085,7 +16112,8 @@ SplineSet
  649 -586 649 -586 657.5 -578.5 c 128,-1,76
  666 -571 666 -571 666 -565 c 0,61,62
 EndSplineSet
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0693.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -16105,7 +16133,8 @@ LayerCount: 2
 Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 637 -745 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0694.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -16125,7 +16154,8 @@ LayerCount: 2
 Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1379 -1 N 1 0 0 1 586 -903 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0695.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -16146,7 +16176,8 @@ Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 607 -823 2
 Refer: 1380 -1 N 1 0 0 1 231 97 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0696.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -16165,7 +16196,8 @@ LayerCount: 2
 Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1385 -1 N 1 0 0 1 550 842 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0697.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -16184,7 +16216,8 @@ LayerCount: 2
 Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1390 -1 N 1 0 0 1 585 789 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Substitution2: "Single Substitution lookup 36 subtable" uni08B2
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0698.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
@@ -16203,6 +16236,7 @@ LayerCount: 2
 Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1392 -1 N 1 0 0 1 533 1001 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0699.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -17629,7 +17663,8 @@ SplineSet
  517 350 517 350 535 362.5 c 128,-1,96
  553 375 553 375 559 389 c 1,85,86
 EndSplineSet
-Position2: "Kern exceptions subtable" dx=290 dy=0 dh=290 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=290 dy=0 dh=390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06C4.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -17722,7 +17757,8 @@ SplineSet
  517 350 517 350 535 362.5 c 128,-1,94
  553 375 553 375 559 389 c 1,83,84
 EndSplineSet
-Position2: "Kern exceptions subtable" dx=290 dy=0 dh=290 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=290 dy=0 dh=390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06C5.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -17741,6 +17777,7 @@ LayerCount: 2
 Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1379 -1 N 1 0 0 1 506 1040 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06C6.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -17759,6 +17796,7 @@ LayerCount: 2
 Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1371 -1 N 1 0 0 1 510 1005 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Substitution2: "Single Substitution in Arabic lookup 26 subtable" uni06C7.filled
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06C7.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
@@ -17778,6 +17816,7 @@ LayerCount: 2
 Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1410 -1 N 1 0 0 1 530 1110 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06C8.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -17796,7 +17835,8 @@ LayerCount: 2
 Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1377 -1 N 1 0 0 1 536 1019 2
-Position2: "Kern exceptions subtable" dx=290 dy=0 dh=290 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=290 dy=0 dh=290 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06C9.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -17816,7 +17856,8 @@ LayerCount: 2
 Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1385 -1 N 1 0 0 1 549 1027 2
-Position2: "Kern exceptions subtable" dx=290 dy=0 dh=290 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=290 dy=0 dh=290 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06CA.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -17836,6 +17877,7 @@ LayerCount: 2
 Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1390 -1 N 1 0 0 1 575 968 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06CB.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -17977,7 +18019,8 @@ LayerCount: 2
 Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 533 1033 2
-Position2: "Kern exceptions subtable" dx=290 dy=0 dh=290 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=290 dy=0 dh=290 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06CF.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -20131,7 +20174,8 @@ LayerCount: 2
 Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1377 -1 N 1 0 0 1 545 840 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni06EF.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -20752,7 +20796,8 @@ SplineSet
  821 -129 821 -129 844 -138 c 1,76,-1
  802 -240 l 1,0,1
 EndSplineSet
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni075B.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -21099,7 +21144,8 @@ LayerCount: 2
 Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1386 -1 N 1 0 0 1 523 984 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni076B.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -21118,7 +21164,8 @@ LayerCount: 2
 Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 515 818 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni076C.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -21348,6 +21395,7 @@ LayerCount: 2
 Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1387 -1 N 1 0 0 1 550 810 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0771.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -21455,6 +21503,7 @@ LayerCount: 2
 Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1407 -1 N 1 0 0 1 530 820 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0778.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -21472,6 +21521,7 @@ LayerCount: 2
 Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1408 -1 N 1 0 0 1 536 834 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni0779.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -21914,7 +21964,8 @@ SplineSet
  92 -415 92 -415 108.5 -417 c 128,-1,71
  125 -419 125 -419 142 -419 c 0,56,57
 EndSplineSet
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni08AA.fina
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
 Position2: "Single Positioning lookup 16 subtable" dx=260 dy=0 dh=260 dv=0
@@ -21932,7 +21983,8 @@ LayerCount: 2
 Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 213 -77 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni08AB.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -22205,6 +22257,7 @@ LayerCount: 2
 Fore
 Refer: 256 1585 N 1 0 0 1 0 0 2
 Refer: 1381 -1 N 1 0 0 1 524 837 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni08B2.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -22284,6 +22337,7 @@ LayerCount: 2
 Fore
 Refer: 256 1585 N 1 0 0 1 0 0 3
 Refer: 1406 -1 N 1 0 0 1 543 1014 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Substitution2: "'fina' Terminal Forms in Arabic lookup 5 subtable" uni08B9.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -28630,6 +28684,7 @@ Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1372 -1 N 1 0 0 1 398 1001 2
 Refer: 1375 -1 N 1 0 0 1 802 1126 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -28647,6 +28702,7 @@ LayerCount: 2
 Fore
 Refer: 279 1608 N 1 0 0 1 0 0 3
 Refer: 1372 -1 N 1 0 0 1 480 1007 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -29441,6 +29497,7 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 480 966 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Ligature2: "'rlig' Required Ligatures in Arabic lookup 11 subtable" uni0648.fina uni0654
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -29524,7 +29581,8 @@ SplineSet
  428 307 428 307 474.5 289.5 c 128,-1,78
  521 272 521 272 607 269 c 1,66,67
 EndSplineSet
-Position2: "Kern exceptions subtable" dx=290 dy=0 dh=290 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=290 dy=0 dh=290 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -29543,7 +29601,8 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 766 1057 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=290 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -29562,6 +29621,7 @@ Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1371 -1 N 1 0 0 1 330 912 2
 Refer: 1375 -1 N 1 0 0 1 766 1110 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Substitution2: "Single Substitution in Arabic lookup 26 subtable" uni0677.fina.filled
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -29580,6 +29640,7 @@ Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1372 -1 N 1 0 0 1 337 976 2
 Refer: 1375 -1 N 1 0 0 1 766 1110 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -29683,7 +29744,8 @@ SplineSet
  428 307 428 307 474.5 289.5 c 128,-1,106
  521 272 521 272 607 269 c 1,94,95
 EndSplineSet
-Position2: "Kern exceptions subtable" dx=290 dy=0 dh=290 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=290 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -29786,7 +29848,8 @@ SplineSet
  428 307 428 307 474.5 289.5 c 128,-1,106
  521 272 521 272 607 269 c 1,94,95
 EndSplineSet
-Position2: "Kern exceptions subtable" dx=290 dy=0 dh=290 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=290 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -29804,6 +29867,7 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1379 -1 N 1 0 0 1 530 1015 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -29821,6 +29885,7 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1371 -1 N 1 0 0 1 536 1000 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Substitution2: "Single Substitution in Arabic lookup 26 subtable" uni06C7.fina.filled
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -29839,6 +29904,7 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1372 -1 N 1 0 0 1 542 1000 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -29856,6 +29922,7 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1410 -1 N 1 0 0 1 519 1074 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -29873,7 +29940,8 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1377 -1 N 1 0 0 1 536 953 2
-Position2: "Kern exceptions subtable" dx=290 dy=0 dh=290 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=290 dy=0 dh=290 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -29892,7 +29960,8 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1385 -1 N 1 0 0 1 513 997 2
-Position2: "Kern exceptions subtable" dx=290 dy=0 dh=290 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=290 dy=0 dh=290 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -29911,6 +29980,7 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1390 -1 N 1 0 0 1 542 942 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -29928,7 +29998,8 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 484 989 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=290 dy=0 dh=290 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -29946,6 +30017,7 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1407 -1 N 1 0 0 1 532 763 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -29962,6 +30034,7 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1408 -1 N 1 0 0 1 474 777 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -29979,7 +30052,8 @@ LayerCount: 2
 Fore
 Refer: 673 -1 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 168 -113 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30379,7 +30453,8 @@ SplineSet
  925 194 925 194 927 172 c 128,-1,67
  929 150 929 150 929 134 c 256,0,1
 EndSplineSet
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30398,7 +30473,8 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 565 684 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30417,6 +30493,7 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1404 -1 N 1 0 0 1 658 623 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30433,6 +30510,7 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1406 -1 N 1 0 0 1 573 844 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30450,7 +30528,8 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1379 -1 N 1 0 0 1 588 690 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30547,7 +30626,8 @@ SplineSet
  667 -621 667 -621 675.5 -614 c 128,-1,97
  684 -607 684 -607 684 -601 c 0,79,80
 EndSplineSet
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30566,7 +30646,8 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 580 -829 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30585,7 +30666,8 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1379 -1 N 1 0 0 1 586 -935 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30605,7 +30687,8 @@ Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1380 -1 N 1 0 0 1 584 -829 2
 Refer: 1380 -1 N 1 0 0 1 214 -4 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30623,7 +30706,8 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1385 -1 N 1 0 0 1 598 647 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30641,7 +30725,8 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1390 -1 N 1 0 0 1 621 586 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Substitution2: "Single Substitution lookup 36 subtable" uni08B2.fina
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
@@ -30660,7 +30745,8 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1392 -1 N 1 0 0 1 588 799 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30678,7 +30764,8 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1386 -1 N 1 0 0 1 585 836 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30697,7 +30784,8 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1375 -1 N 1 0 0 1 562 704 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30716,6 +30804,7 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1387 -1 N 1 0 0 1 575 689 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30732,6 +30821,7 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1381 -1 N 1 0 0 1 575 671 2
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30748,7 +30838,8 @@ LayerCount: 2
 Fore
 Refer: 705 -1 N 1 0 0 1 0 0 3
 Refer: 1377 -1 N 1 0 0 1 572 620 2
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=195 dy=0 dh=195 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-195 dy=0 dh=-195 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30839,7 +30930,8 @@ SplineSet
  822 -148 822 -148 841 -155 c 1,92,-1
  799 -257 l 1,0,1
 EndSplineSet
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 19 subtable" dx=-260 dy=0 dh=-260 dv=0
 Position2: "Single Positioning lookup 18 subtable" dx=-169 dy=0 dh=-169 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
@@ -30930,7 +31022,8 @@ SplineSet
  36 -446 36 -446 52.5 -448 c 128,-1,89
  69 -450 69 -450 86 -450 c 0,74,75
 EndSplineSet
-Position2: "Kern exceptions subtable" dx=390 dy=0 dh=390 dv=0
+Position2: "Kitab-Regular-Kern exceptions 1 subtable" dx=260 dy=0 dh=260 dv=0
+Position2: "Kitab-Regular-Kern exceptions 0 subtable" dx=390 dy=0 dh=390 dv=0
 Position2: "Single Positioning lookup 17 subtable" dx=130 dy=0 dh=130 dv=0
 Position2: "Single Positioning lookup 16 subtable" dx=260 dy=0 dh=260 dv=0
 Position2: "Single Positioning lookup 15 subtable" dx=-390 dy=0 dh=-390 dv=0
