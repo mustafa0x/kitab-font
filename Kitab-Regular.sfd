@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1440087096
-ModificationTime: 1670790048
+ModificationTime: 1670796789
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -117,6 +117,7 @@ Lookup: 1 0 0 "wide tatweel" { "wide tatweel-1"  } []
 Lookup: 259 9 0 "'curs' Cursive Attachment in Arabic lookup 0" { "'curs' Cursive Attachment in Arabic lookup 0 subtable"  } ['curs' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 264 8 0 "'kern' Horizontal Kerning in Arabic lookup 1" { "'kern' Horizontal Kerning in Arabic lookup 1 contextual 0"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 1"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 2"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 3"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 4"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 5"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 6"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 7"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 8"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 9"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 10"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 11"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 12"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 13"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 14"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 15"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 16"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 17"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 18"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 19"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 20"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 21"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 22"  "'kern' Horizontal Kerning in Arabic lookup 1 contextual 23"  } ['kern' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 264 0 0 "'kern' Kern exceptions" { "'kern' Kern exceptions 0"  "'kern' Kern exceptions 1"  "'kern' Kern exceptions 2"  } ['kern' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
+Lookup: 264 327696 0 "'kern' Kern exceptions 1" { "'kern' Kern exceptions 1 subtable"  } ['kern' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 260 1 0 "'mark' Mark Positioning lookup 2" { "'mark' Mark Positioning lookup 2 anchor 0"  "'mark' Mark Positioning lookup 2 anchor 1"  } ['kern' ('arab' <'KUR ' > ) 'mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 264 131089 0 "'mark' Mark Positioning in Arabic lookup 3" { "'mark' Mark Positioning in Arabic lookup 3 contextual 0"  "'mark' Mark Positioning in Arabic lookup 3 contextual 1"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 264 131089 0 "'mark' Mark Positioning in Arabic lookup 4" { "'mark' Mark Positioning in Arabic lookup 4 contextual 0"  "'mark' Mark Positioning in Arabic lookup 4 contextual 1"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
@@ -199,13 +200,22 @@ Lookup: 264 262160 0 "'rlig' Required Ligatures in Arabic lookup 79" { "'rlig' R
 Lookup: 257 262160 0 "Single Positioning lookup 80" { "Single Positioning lookup 80 subtable"  } []
 MarkAttachClasses: 2
 "MarkClass-1" 63 uni064B uni064C uni064D uni064E uni064F uni0650 uni0651 uni0670
-MarkAttachSets: 5
+MarkAttachSets: 6
 "MarkSet-0" 7 uni0654
 "MarkSet-1" 52 uni064E uni064F uni0654 uni064F.short uni064F.filled
 "MarkSet-2" 203 uni061A uni064D uni0650 uni0655 uni0656 uni065C uni065F uni06E3 uni06EA uni06ED uni08E3 uni08E6 uni08E9 uni08ED uni08EE uni08EF uni08F2 uni08F6 uni08F9 uni08FA uni064D.lowered uni0650.lowered uni065006E2
 "MarkSet-3" 833 uni0610 uni0611 uni0612 uni0613 uni0614 uni0615 uni0616 uni0617 uni0618 uni0619 uni064B uni064C uni064E uni064F uni0651 uni0652 uni0653 uni0654 uni0657 uni0658 uni0659 uni065A uni065B uni065D uni065E uni0670 uni06D6 uni06D7 uni06D8 uni06D9 uni06DA uni06DB uni06DC uni06DF uni06E0 uni06E1 uni06E2 uni06E4 uni06E7 uni06E8 uni06EB uni06EC uni08E4 uni08E5 uni08E7 uni08E8 uni08EA uni08EB uni08EC uni08F0 uni08F1 uni08F3 uni08F4 uni08F5 uni08F7 uni08F8 uni08FB uni08FC uni08FD uni08FE uni08FF uni064C.sixNine uni064F.short uni064F.filled uni0652.downOpen uni0652.leftOpen uni0653.small uni0657.open uni0670.large uni0651064B uni0651064C uni0651064C.sixNine uni0651064D uni0651064E uni0651064F uni0651064F.short uni0651064F.filled uni06510650 uni0654064E uni0654064F uni0654064F.short uni0654064F.filled uni06510670 uni064E06E2 uni064F06E2
 "MarkSet-4" 11 uni0654064E
+"hamza-below" 7 uni0655
 DEI: 91125
+ChainPos2: coverage "'kern' Kern exceptions 1 subtable" 0 0 0 1
+ 1 0 2
+  Coverage: 804 uni0624 uni0631 uni0632 uni0648 uni0676 uni0677 uni0691 uni0692 uni0693 uni0694 uni0695 uni0696 uni0697 uni0698 uni0699 uni06C4 uni06C5 uni06C6 uni06C7 uni06C8 uni06C9 uni06CA uni06CB uni06CF uni06EF uni075B uni076B uni076C uni0771 uni0778 uni0779 uni08AA uni08AB uni08B2 uni08B9 uni0677.filled uni06C7.filled uni0624.fina uni0648.fina uni0676.fina uni0677.fina uni0677.fina.filled uni06C4.fina uni06C5.fina uni06C6.fina uni06C7.fina uni06C7.fina.filled uni06C8.fina uni06C9.fina uni06CA.fina uni06CB.fina uni06CF.fina uni0778.fina uni0779.fina uni08AB.fina uni0631.fina uni0632.fina uni0691.fina uni08B9.fina uni0692.fina uni0693.fina uni0694.fina uni0695.fina uni0696.fina uni0697.fina uni0698.fina uni0699.fina uni076B.fina uni076C.fina uni0771.fina uni08B2.fina uni06EF.fina uni075B.fina uni08AA.fina
+  FCoverage: 7 uni0627
+  FCoverage: 7 uni0655
+ 1
+  SeqLookup: 0 "Kern exceptions 0"
+EndFPST
 ChainPos2: coverage "'kern' Kern exceptions 2" 0 0 0 1
  1 0 3
   Coverage: 7 uni0627
@@ -1738,7 +1748,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 161 23 10
+WinInfo: 46 23 10
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Cursive-0" "'curs' Cursive Attachment in Arabic lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning lookup 2 anchor 0" "Anchor-2" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-3" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-4" "'mkmk' Mark to Mark lookup 6 subtable" "Anchor-5" "'mkmk' Mark to Mark lookup 7 subtable" "Anchor-6" "Mark to base attachment lookup 21 subtable" "Anchor-7" "Mark to base attachment lookup 22 subtable" "Anchor-8" "Mark to base attachment lookup 23 subtable"
