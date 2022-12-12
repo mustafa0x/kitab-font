@@ -45,6 +45,10 @@ The following honorifics were added (note: these honorifics are set to be includ
 - U+FD48 (عليهم السلام)
 - U+FD49 (عليهما السلام)
 
+## Subsetting and compressing
+
+- `./subset.mjs` (requires [pyftsubset](https://github.com/fonttools/fonttools) and [zx](https://github.com/google/zx)) -- it will output `dist/{kitab-base,kitab-base-bold,kitab-phrases}.{woff,woff2}`
+
 ## License
 
 This font software is free to use, modify, and redistribute
