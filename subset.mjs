@@ -1,9 +1,9 @@
 #!/usr/bin/env zx
 
 const chars = [
-  'U+00A0', // NBSP
-  'U+00AD', // Soft Hyphen
-  'U+061C', // Arabic letter mark (ALM)
+  'U+A0', // NBSP
+  'U+AD', // Soft Hyphen
+  'U+61C', // Arabic letter mark (ALM)
 
   // Whitespaces, joiners, marks, and separators
   'U+2000-200F',
@@ -13,7 +13,7 @@ const chars = [
   'U+FEFF', // BOM
 ]
 const chars_text = `
-!"#$%&'()*+,-./0123456789:;<=>[\]_{}«»·
+!"#$%&'()*+,-./0123456789:;<=>[\\]_{}«»·
 ،
 
 ؘؘؙؚ؛
