@@ -49,6 +49,53 @@ The following honorifics were added (note: these honorifics are set to be includ
 
 - `./subset.mjs` (requires [pyftsubset](https://github.com/fonttools/fonttools) and [zx](https://github.com/google/zx)) -- it will output `dist/{kitab-base,kitab-base-bold,kitab-phrases}.{woff,woff2}`
 
+## CSS
+
+```css
+@font-face {
+  font-family: Kitab;
+  src: url(/assets/kitab-base.woff2);
+  unicode-range: U+200?, U+60C, U+618-61B, U+61F, U+621-63A, U+640-655, U+65C, U+660-66C, U+670-671, U+6CC, U+6D4, U+6D6-6DD, U+6DF-6E8, U+6EA-6ED, U+8F0-8F3, U+FD3E-FD3F, U+FDF2;
+}
+@font-face {
+  font-family: Kitab;
+  src: url(/assets/kitab-base-bold.woff2);
+  font-weight: 700;
+  unicode-range: U+200?, U+60C, U+618-61B, U+61F, U+621-63A, U+640-655, U+65C, U+660-66C, U+670-671, U+6CC, U+6D4, U+6D6-6DD, U+6DF-6E8, U+6EA-6ED, U+8F0-8F3, U+FD3E-FD3F, U+FDF2;
+}
+@font-face {
+  font-family: Kitab;
+  src: url(/assets/kitab-phrases.woff2);
+  unicode-range: U+6DE, U+6E9, U+E100-E103, U+FD3E-FD45, U+FD47-FD4F, U+FDFA-FDFB, U+FDFD-FDFF;
+}
+@font-face {
+  font-family: Kitab;
+  src: url(/assets/kitab-phrases.woff2);
+  font-weight: 700;
+  unicode-range: U+6DE, U+6E9, U+E100-E103, U+FD3E-FD45, U+FD47-FD4F, U+FDFA-FDFB, U+FDFD-FDFF;
+}
+```
+
+## unicode-range
+
+The following code can create a valid CSS unicode-range from a set of characters.
+
+```py
+import itertools
+
+def ranges(i):
+    for a, b in itertools.groupby(enumerate(i), lambda pair: pair[1] - pair[0]):
+        b = list(b)
+        yield b[0][1], b[-1][1]
+
+def unicode_range(chars):
+    ints = sorted([ord(c) for c in set(chars)])
+    groups = list(ranges(ints))
+    groups1 = [(hex(a), hex(b)) for a, b in groups]
+    groups2 = [(f'{a}-{b}' if a != b else a) for a, b in groups1]
+    return ', '.join(groups2).replace('-0x', '-').replace('0x', 'U+').upper()
+```
+
 ## License
 
 This font software is free to use, modify, and redistribute
