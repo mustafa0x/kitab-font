@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1440087096
-ModificationTime: 1671294744
+ModificationTime: 1671298653
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -122,6 +122,7 @@ Lookup: 260 1 0 "'mark' Mark Positioning lookup 2" { "'mark' Mark Positioning lo
 Lookup: 264 131089 0 "'mark' Mark Positioning in Arabic lookup 3" { "'mark' Mark Positioning in Arabic lookup 3 contextual 0"  "'mark' Mark Positioning in Arabic lookup 3 contextual 1"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 264 131089 0 "'mark' Mark Positioning in Arabic lookup 4" { "'mark' Mark Positioning in Arabic lookup 4 contextual 0"  "'mark' Mark Positioning in Arabic lookup 4 contextual 1"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 264 131089 0 "'mark' Mark Positioning in Arabic lookup 5" { "'mark' Mark Positioning in Arabic lookup 5 contextual 0"  "'mark' Mark Positioning in Arabic lookup 5 contextual 1"  "'mark' Mark Positioning in Arabic lookup 5 contextual 2"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
+Lookup: 261 0 0 "'mark' Mark Positioning in Arabic lookup 84" { "'mark' Mark Positioning in Arabic lookup 84-1"  } ['mark' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > ) ]
 Lookup: 262 131089 0 "'mkmk' Mark to Mark lookup 6" { "'mkmk' Mark to Mark lookup 6 subtable"  } ['mkmk' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 262 196625 0 "'mkmk' Mark to Mark lookup 7" { "'mkmk' Mark to Mark lookup 7 subtable"  } ['mkmk' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'latn' <'dflt' > ) ]
 Lookup: 264 9 0 "'kern' Horizontal Kerning lookup 8" { "'kern' Horizontal Kerning lookup 8 contextual 0"  "'kern' Horizontal Kerning lookup 8 contextual 1"  "'kern' Horizontal Kerning lookup 8 contextual 2"  "'kern' Horizontal Kerning lookup 8 contextual 3"  "'kern' Horizontal Kerning lookup 8 contextual 4"  "'kern' Horizontal Kerning lookup 8 contextual 5"  "'kern' Horizontal Kerning lookup 8 contextual 6"  "'kern' Horizontal Kerning lookup 8 contextual 7"  "'kern' Horizontal Kerning lookup 8 contextual 8"  "'kern' Horizontal Kerning lookup 8 contextual 9"  "'kern' Horizontal Kerning lookup 8 contextual 10"  "'kern' Horizontal Kerning lookup 8 contextual 11"  } ['kern' ('arab' <'KUR ' 'SND ' 'URD ' 'dflt' > 'latn' <'dflt' > ) ]
@@ -1747,11 +1748,11 @@ UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
-FitToEm: 0
-WinInfo: 1020 17 8
+FitToEm: 1
+WinInfo: 1309 17 8
 BeginPrivate: 0
 EndPrivate
-AnchorClass2: "Cursive-0" "'curs' Cursive Attachment in Arabic lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning lookup 2 anchor 0" "Anchor-2" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-3" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-4" "'mkmk' Mark to Mark lookup 6 subtable" "Anchor-5" "'mkmk' Mark to Mark lookup 7 subtable" "Anchor-6" "Mark to base attachment lookup 21 subtable" "Anchor-7" "Mark to base attachment lookup 22 subtable" "Anchor-8" "Mark to base attachment lookup 23 subtable"
+AnchorClass2: "liga" "'mark' Mark Positioning in Arabic lookup 84-1" "Cursive-0" "'curs' Cursive Attachment in Arabic lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning lookup 2 anchor 0" "Anchor-2" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-3" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-4" "'mkmk' Mark to Mark lookup 6 subtable" "Anchor-5" "'mkmk' Mark to Mark lookup 7 subtable" "Anchor-6" "Mark to base attachment lookup 21 subtable" "Anchor-7" "Mark to base attachment lookup 22 subtable" "Anchor-8" "Mark to base attachment lookup 23 subtable"
 BeginChars: 66327 1435
 
 StartChar: .notdef
@@ -13908,6 +13909,7 @@ StartChar: uni0650
 Encoding: 1616 1616 287
 Width: 0
 GlyphClass: 4
+AnchorPoint: "liga" 188 -728 mark 0
 AnchorPoint: "Anchor-5" 254 -340 basemark 0
 AnchorPoint: "Anchor-8" 188 -728 mark 0
 AnchorPoint: "Anchor-7" 188 -728 mark 0
@@ -56224,6 +56226,9 @@ StartChar: uni064406440647
 Encoding: 66321 -1 1429
 Width: 1552
 AnchorPoint: "Anchor-3" 343 -234 basechar 0
+AnchorPoint: "liga" 338 -234 baselig 2
+AnchorPoint: "liga" 972 -229 baselig 1
+AnchorPoint: "liga" 1347 -229 baselig 0
 AnchorPoint: "Anchor-2" 318 696 basechar 0
 AnchorPoint: "Anchor-1" 226 748 basechar 0
 LayerCount: 2
@@ -56235,6 +56240,9 @@ EndChar
 StartChar: uni064406440647.alt
 Encoding: 66322 -1 1430
 Width: 1552
+AnchorPoint: "liga" 1347 -229 baselig 0
+AnchorPoint: "liga" 972 -229 baselig 1
+AnchorPoint: "liga" 338 -234 baselig 2
 AnchorPoint: "Anchor-1" 226 748 basechar 0
 AnchorPoint: "Anchor-2" 318 696 basechar 0
 AnchorPoint: "Anchor-3" 343 -234 basechar 0
