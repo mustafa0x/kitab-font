@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1440087096
-ModificationTime: 1670797251
+ModificationTime: 1671294744
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -236,7 +236,7 @@ EndFPST
 ChainPos2: coverage "'kern' Kern exceptions 0 subtable 0" 0 0 0 1
  1 0 2
   Coverage: 474 uni0631 uni0632 uni0648 uni0676 uni0692 uni0693 uni0694 uni0695 uni0696 uni0697 uni0698 uni06C4 uni06C5 uni06C9 uni06CA uni06CF uni06EF uni075B uni076B uni076C uni08AA uni08AB uni0648.fina uni0676.fina uni06C4.fina uni06C5.fina uni06C9.fina uni06CA.fina uni06CF.fina uni08AB.fina uni0631.fina uni0632.fina uni0692.fina uni0693.fina uni0694.fina uni0695.fina uni0696.fina uni0697.fina uni0698.fina uni0699.fina uni076B.fina uni076C.fina uni06EF.fina uni075B.fina uni08AA.fina
-  FCoverage: 537 uni064B uni064C uni064D uni064E uni064F uni0650 uni0651 uni0652 uni0654 uni0657 uni0658 uni0659 uni065A uni065B uni065D uni065E uni0674 uni06E1 uni08E4 uni08E5 uni08E6 uni08E7 uni08E8 uni08EB uni08EC uni08F0 uni08F1 uni08F2 uni08F3 uni08F4 uni08F5 uni08F6 uni08F7 uni08F8 uni08FB uni08FC uni08FD uni08FE uni08FF uni0651064B uni0651064C uni0651064C.sixNine uni0651064D uni0651064E uni0651064F uni0651064F.short uni0651064F.filled uni06510650 uni0654064E uni0654064F uni0654064F.short uni0654064F.filled uni06510670 uni064E06E2 uni064F06E2
+  FCoverage: 505 uni064B uni064C uni064E uni064F uni0651 uni0652 uni0654 uni0657 uni0658 uni0659 uni065A uni065B uni065D uni065E uni0674 uni06E1 uni08E4 uni08E5 uni08E7 uni08E8 uni08EB uni08EC uni08F0 uni08F1 uni08F2 uni08F3 uni08F4 uni08F5 uni08F7 uni08F8 uni08FB uni08FC uni08FD uni08FE uni08FF uni0651064B uni0651064C uni0651064C.sixNine uni0651064D uni0651064E uni0651064F uni0651064F.short uni0651064F.filled uni06510650 uni0654064E uni0654064F uni0654064F.short uni0654064F.filled uni06510670 uni064E06E2 uni064F06E2
   FCoverage: 371 uni063B uni063C uni06A9 uni06AB uni06AF uni06B0 uni06B1 uni06B2 uni06B3 uni06B4 uni0762 uni0763 uni0764 uni08B0 uni0643.init uni06AC.init uni08B4.init uni06AD.init uni077F.init uni06AE.init uni06A9.init uni06AB.init uni06AF.init uni06B0.init uni06B1.init uni06B2.init uni06B3.init uni06B4.init uni0762.init uni0763.init uni0764.init uni063B.init uni063C.init uni08B0.init
  1
   SeqLookup: 0 "Kern exceptions 0"
@@ -1748,7 +1748,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 23 10
+WinInfo: 1020 17 8
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "Cursive-0" "'curs' Cursive Attachment in Arabic lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning lookup 2 anchor 0" "Anchor-2" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-3" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-4" "'mkmk' Mark to Mark lookup 6 subtable" "Anchor-5" "'mkmk' Mark to Mark lookup 7 subtable" "Anchor-6" "Mark to base attachment lookup 21 subtable" "Anchor-7" "Mark to base attachment lookup 22 subtable" "Anchor-8" "Mark to base attachment lookup 23 subtable"
