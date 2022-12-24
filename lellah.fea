@@ -1,8 +1,7 @@
 %CLASSES%
 
-feature calt {
- script arab;
-
+lookup calt_1 {
+ lookupflag 0;
   # فتالله/فبالله
   sub uni0641.init [uni0628.medi uni062A.medi] [uni0627.fina uni0671.fina] uni0644.init' uni0644.medi'                   uni0647.fina' by uni064406440647;
   sub uni0641.init [uni0628.medi uni062A.medi] [uni0627.fina uni0671.fina] uni0644.init' uni0644.medi' uni0651' uni0670' uni0647.fina' by uni064406440647;
@@ -34,14 +33,29 @@ feature calt {
   sub uni0644.init' uni0644.medi'                   uni0647.fina' by uni064406440647;
   sub uni0644.init' uni0644.medi' uni0651' uni0670' uni0647.fina' by uni064406440647;
   sub uni0644.init' uni0644.medi' uni0651'          uni0647.fina' by uni064406440647.alt;
-} calt;
+} calt_1;
 
 @dontignore = [uni08E3 uni0612 uni0613 uni0610 uni0611 uni0614 uni0618 uni0619 uni061A uni065F uni0670 uni0670.isol uni0670.large uni0670.lellah uni0656 uni0654 uni0654064E uni0654064F uni0654064F.filled uni0654064F.short uni0655 uni064B uni064C uni064C.sixNine uni064D uni064D.lowered uni064E uni064E06E2 uni064F uni064F.filled uni064F.short uni064F06E2 uni0650.lowered uni065006E2 uni0651 uni06510670 uni0651064B uni0651064C uni0651064C.sixNine uni0651064D uni0651064E uni0651064F uni0651064F.filled uni0651064F.short uni06510650 uni0652 uni0652.downOpen uni0652.leftOpen uni0653 uni0653.small uni0658 uni0657 uni0657.open uni0659 uni065A uni065B uni065C uni065D uni065E uni06DF uni06E0 uni06E1 uni06E3 uni06E4 uni06EA uni06EB uni06EC uni06ED uni08E4 uni08E5 uni08E6 uni08E7 uni08E8 uni08E9 uni08EA uni08EB uni08EC uni08ED uni08EE uni08EF uni08F0 uni08F1 uni08F2 uni08F4 uni08F5 uni08F6 uni08F7 uni08F8 uni08F9 uni08FA uni08FB uni08FC uni08FD uni08FE uni08FF];
-feature calt {
- script arab;
+lookup calt_2 {
  lookupflag UseMarkFilteringSet @dontignore;
 
   sub uni0644.init' uni0644.medi'                   uni0647.fina' by uni064406440647;
   sub uni0644.init' uni0644.medi' uni0651' uni0670' uni0647.fina' by uni064406440647;
   sub uni0644.init' uni0644.medi' uni0651'          uni0647.fina' by uni064406440647.alt;
+} calt_2;
+
+feature calt {
+ script arab;
+ language dflt;
+  lookup calt_1;
+  lookup calt_2;
+ language URD;
+  lookup calt_1;
+  lookup calt_2;
+ language SND;
+  lookup calt_1;
+  lookup calt_2;
+ language KUR;
+  lookup calt_1;
+  lookup calt_2;
 } calt;
