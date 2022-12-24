@@ -59,3 +59,19 @@ feature calt {
   lookup calt_1;
   lookup calt_2;
 } calt;
+
+lookup ccmp_1 {
+  sub uniFDFD by uniFDFD.1 uniFDFD.2 uniFDFD.3 uniFDFD.4;
+} ccmp_1;
+
+feature ccmp {
+ script arab;
+ language dflt;
+  lookup ccmp_1;
+ language URD;
+  lookup ccmp_1;
+ language SND;
+  lookup ccmp_1;
+ language KUR;
+  lookup ccmp_1;
+} ccmp;
