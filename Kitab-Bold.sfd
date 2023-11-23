@@ -1748,7 +1748,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 1
-WinInfo: 64957 17 8
+WinInfo: 66198 17 8
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "liga" "'mark' Mark Positioning in Arabic lookup 84-1" "Cursive-0" "'curs' Cursive Attachment in Arabic lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning lookup 2 anchor 0" "Anchor-2" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-3" "'mark' Mark Positioning lookup 2 anchor 1" "Anchor-4" "'mkmk' Mark to Mark lookup 6 subtable" "Anchor-5" "'mkmk' Mark to Mark lookup 7 subtable" "Anchor-6" "Mark to base attachment lookup 21 subtable" "Anchor-7" "Mark to base attachment lookup 22 subtable" "Anchor-8" "Mark to base attachment lookup 23 subtable"
@@ -49011,11 +49011,6 @@ Fore
 Refer: 285 1614 N 1 0 0 1 56 191 3
 Refer: 285 1614 N 1 0 0 1 56 -56 2
 Refer: 288 1617 N 1 0 0 1 0 525 2
-Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni0651064D
-MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni0651064D uni0653.small
-MultipleSubs2: "Multiple Substitution lookup 27 subtable" uni0651 uni064D
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 10 subtable" uni0651 uni064D
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 10 subtable" uni064D uni0651
 EndChar
 
 StartChar: uni0651064E
@@ -49094,11 +49089,6 @@ LayerCount: 2
 Fore
 Refer: 285 1614 N 1 0 0 1 56 -19 3
 Refer: 288 1617 N 1 0 0 1 0 311 2
-Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni06510650
-MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni06510650 uni0653.small
-MultipleSubs2: "Multiple Substitution lookup 27 subtable" uni0651 uni0650
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 10 subtable" uni0651 uni0650
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 10 subtable" uni0650 uni0651
 EndChar
 
 StartChar: uni0654064E

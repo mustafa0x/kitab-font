@@ -50264,11 +50264,6 @@ Fore
 Refer: 285 1614 N 1 0 0 1 78 17 3
 Refer: 285 1614 N 1 0 0 1 78 205 2
 Refer: 288 1617 N 1 0 0 1 0 473 2
-Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni0651064D
-MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni0651064D uni0653.small
-MultipleSubs2: "Multiple Substitution lookup 27 subtable" uni0651 uni064D
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 10 subtable" uni0651 uni064D
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 10 subtable" uni064D uni0651
 EndChar
 
 StartChar: uni0651064E
@@ -50347,11 +50342,6 @@ LayerCount: 2
 Fore
 Refer: 285 1614 N 1 0 0 1 78 0 3
 Refer: 288 1617 N 1 0 0 1 0 268 2
-Ligature2: "Ligature Substitution lookup 49 subtable" uni0653.small uni06510650
-MultipleSubs2: "Multiple Substitution lookup 48 subtable" uni06510650 uni0653.small
-MultipleSubs2: "Multiple Substitution lookup 27 subtable" uni0651 uni0650
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 10 subtable" uni0651 uni0650
-Ligature2: "'rlig' Required Ligatures in Arabic lookup 10 subtable" uni0650 uni0651
 EndChar
 
 StartChar: uni0654064E
