@@ -47,7 +47,7 @@ The following honorifics were added (note: these honorifics are set to be includ
 
 ## Subsetting and compressing
 
-- `./subset.mjs` (requires [pyftsubset](https://github.com/fonttools/fonttools) and [zx](https://github.com/google/zx)) -- it will output `dist/{kitab-base,kitab-base-bold,kitab-phrases}.{woff,woff2}`
+- `./subset.mjs` (requires [pyftsubset](https://github.com/fonttools/fonttools) and [zx](https://github.com/google/zx)) -- it will output `build/{kitab-base,kitab-base-bold,kitab-phrases}.{woff,woff2}`
 
 ## CSS
 
